@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fffce3cc65e32d35",
+        "id": "d1e81f333dbe50ee",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2e2115068f32be",
+            "id": "26758eac34cc8ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e2e2115068f32be",
+  "active": "26758eac34cc8ac1",
   "lastOpenFiles": [
-    "知识/Go/go视频学习.md",
-    "知识/ModSar/2023.09.25 发现问题.md",
+    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
+    "知识/Ubuntu/VScode安装.md",
+    "知识/ModSar/2023-09-28 发现问题.md",
     "知识/ModSar/2023.09.26 修复问题.md",
+    "知识/ModSar/2023.09.25 发现问题.md",
     "计划安排.md",
+    "README.md",
     "每日代办/2023-09-25.md",
+    "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
+    "工作/项目/ModSAR/docker打包-更新-发布.md",
+    "知识/Go/go视频学习.md",
     "知识/Go/Go VSCODE 安装失败的问题.md",
     "知识/Go/Go官网标准指南.md",
     "知识/Go/go视频学习",
@@ -177,8 +175,6 @@
     "知识/Cmake cook book/Pasted image 20230919181747.png",
     "Pasted image 20230919181644.png",
     "知识/Ubuntu/Git命令学习.md",
-    "知识/Cmake cook book",
-    "知识/Ubuntu/VScode安装.md",
-    "README.md"
+    "知识/Cmake cook book"
   ]
 }
