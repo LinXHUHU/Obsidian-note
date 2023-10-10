@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md",
+                "file": "知识/Go/go视频学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b8c5cc68c680cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识/Go/go视频学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md",
+                "file": "知识/Go/go视频学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md",
+                "file": "知识/Go/go视频学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ModSar/2023.09.26 修复问题.md"
+                "file": "知识/Go/go视频学习.md"
               }
             }
           }
@@ -146,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e2e2115068f32be",
+  "active": "d3b8c5cc68c680cd",
   "lastOpenFiles": [
+    "知识/ModSar/2023.09.26 修复问题.md",
     "知识/Go/go视频学习.md",
     "知识/ModSar/2023.09.25 发现问题.md",
-    "知识/ModSar/2023.09.26 修复问题.md",
     "计划安排.md",
     "每日代办/2023-09-25.md",
     "知识/Go/Go VSCODE 安装失败的问题.md",
