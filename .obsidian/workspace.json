@@ -11,8 +11,12 @@
             "id": "26758eac34cc8ac1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知识/ModSar/2023.10.07 遗留问题.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/ModSar/2023.10.07 遗留问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识/ModSar/2023.10.07 遗留问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识/ModSar/2023.10.07 遗留问题.md"
+              }
             }
           }
         ]
@@ -140,11 +148,17 @@
   },
   "active": "26758eac34cc8ac1",
   "lastOpenFiles": [
-    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
-    "知识/Ubuntu/VScode安装.md",
-    "知识/ModSar/2023-09-28 发现问题.md",
+    "知识/ModSar/日志框架开发信息.md",
+    "知识/ModSar/2023.10.07 遗留问题.md",
+    "知识/ModSar/attachments/Pasted image 20231008145836.png",
     "知识/ModSar/2023.09.26 修复问题.md",
     "知识/ModSar/2023.09.25 发现问题.md",
+    "知识/ModSar/2023-09-28 发现问题.md",
+    "知识/ModSar/attachments/Pasted image 20231007184403.png",
+    "知识/ModSar/attachments",
+    "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
+    "知识/Ubuntu/VScode安装.md",
+    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "计划安排.md",
     "README.md",
     "每日代办/2023-09-25.md",
