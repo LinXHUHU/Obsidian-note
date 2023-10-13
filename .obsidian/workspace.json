@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/ModSar/2023.10.07 遗留问题.md",
+                "file": "知识/Go/Go web 视频/10.13.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#spdlog知识点",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ModSar/2023.10.07 遗留问题.md",
+                "file": "知识/Go/Go web 视频/10.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ModSar/2023.10.07 遗留问题.md",
+                "file": "知识/Go/Go web 视频/10.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ModSar/2023.10.07 遗留问题.md"
+                "file": "知识/Go/Go web 视频/10.13.md"
               }
             }
           }
@@ -148,7 +148,30 @@
   },
   "active": "26758eac34cc8ac1",
   "lastOpenFiles": [
+    "知识/Go/Go web 视频/attachments/Pasted image 20231013202524.png",
+    "知识/Go/Go web 视频/attachments/Pasted image 20231013202318.png",
+    "知识/Go/Go web 视频/attachments/Pasted image 20231013202002.png",
+    "知识/Go/Go web 视频/attachments",
+    "知识/Go/Linux GO 环境搭建.md",
+    "知识/Go/Go web 视频/10.13.md",
+    "知识/Go/Go web 视频",
+    "知识/Go/Untitled.md",
+    "知识/Go/Go官网标准指南.md",
     "知识/ModSar/日志框架开发信息.md",
+    "工作/会议记录/AI initiative 2023 kick off 会议.md",
+    "工作/会议记录",
+    "工作/会议记录.md",
+    "知识/Ubuntu/简单的网络连接.md",
+    "每日代办/2023-09-25.md",
+    "每日代办/2023-09-22.md",
+    "每日代办/2023-09-19.md",
+    "工作/总结/02-周/2023.09.04 - 2023.09.08.md",
+    "工作/总结/01-日/2023-09-18 周一.md",
+    "工作/总结/01-日/2023-09-15 周五.md",
+    "工作/总结/01-日/2023-09-14 周四.md",
+    "知识/Windows/win10开机启动项设置方法.md",
+    "知识/Windows",
+    "计划安排.md",
     "知识/ModSar/2023.10.07 遗留问题.md",
     "知识/ModSar/attachments/Pasted image 20231008145836.png",
     "知识/ModSar/2023.09.26 修复问题.md",
@@ -159,36 +182,17 @@
     "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
     "知识/Ubuntu/VScode安装.md",
     "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
-    "计划安排.md",
     "README.md",
-    "每日代办/2023-09-25.md",
-    "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
-    "工作/项目/ModSAR/docker打包-更新-发布.md",
-    "知识/Go/go视频学习.md",
-    "知识/Go/Go VSCODE 安装失败的问题.md",
-    "知识/Go/Go官网标准指南.md",
     "知识/Go/go视频学习",
     "知识/ModSar",
-    "每日代办/2023-09-22.md",
-    "每日代办/2023-09-19.md",
-    "知识/Cmake cook book/寻找库，链接库.md",
     "知识/Go",
     "知识/Cmake cook book/attachments/Pasted image 20230920143415.png",
-    "知识/Cmake cook book/各种编译参数的配置.md",
     "知识/Cmake cook book/Untitled",
     "知识/Cmake cook book/attachments/Pasted image 20230920124106.png",
     "知识/Cmake cook book/attachments/Pasted image 20230920112302.png",
-    "知识/Cmake cook book/option的使用.md",
     "知识/Cmake cook book/attachments/Pasted image 20230920102805.png",
-    "知识/Cmake cook book/add_library的各种参数.md",
-    "知识/Cmake cook book/C++小知识.md",
-    "知识/Cmake cook book/Cmake切换生成器.md",
     "知识/Cmake cook book/attachments/Pasted image 20230919181856.png",
     "知识/Cmake cook book/attachments",
-    "知识/Cmake cook book/Pasted image 20230919181821.png",
-    "知识/Cmake cook book/Pasted image 20230919181747.png",
-    "Pasted image 20230919181644.png",
-    "知识/Ubuntu/Git命令学习.md",
-    "知识/Cmake cook book"
+    "知识/Cmake cook book/Pasted image 20230919181821.png"
   ]
 }
