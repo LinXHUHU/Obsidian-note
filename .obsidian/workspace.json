@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Go/go视频学习.md",
+                "file": "知识/Go/项目：Go web入门/第一章 Go环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Go/go视频学习.md",
+                "file": "知识/Go/项目：Go web入门/第一章 Go环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Go/go视频学习.md",
+                "file": "知识/Go/项目：Go web入门/第一章 Go环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Go/go视频学习.md"
+                "file": "知识/Go/项目：Go web入门/第一章 Go环境配置.md"
               }
             }
           }
@@ -161,13 +161,29 @@
   },
   "active": "d3b8c5cc68c680cd",
   "lastOpenFiles": [
-    "知识/ModSar/2023.09.26 修复问题.md",
-    "知识/Go/go视频学习.md",
-    "知识/ModSar/2023.09.25 发现问题.md",
-    "计划安排.md",
-    "每日代办/2023-09-25.md",
+    "知识/Go/项目：仿云存储/学习记录1.md",
+    "知识/Go/项目：Go web入门/第一章 Go环境配置.md",
+    "知识/Go/项目：Go web入门",
+    "知识/Go/项目：后台数据管理",
+    "知识/Go/Untitled.md",
     "知识/Go/Go VSCODE 安装失败的问题.md",
     "知识/Go/Go官网标准指南.md",
+    "知识/Go/go视频学习.md",
+    "README.md",
+    "计划安排.md",
+    "知识/ModSar/2023.09.25 发现问题.md",
+    "知识/ModSar/2023.09.26 修复问题.md",
+    "知识/Ubuntu/Git命令学习.md",
+    "知识/Ubuntu/VScode安装.md",
+    "知识/Go/项目：仿云存储/attachments/Pasted image 20231011205400.png",
+    "知识/Go/项目：仿云存储/attachments",
+    "知识/Go/项目：仿云存储",
+    "知识/Go/attachments/Pasted image 20231011003541.png",
+    "知识/Go/attachments/Pasted image 20231011002719.png",
+    "知识/Go/attachments/Pasted image 20231010235529.png",
+    "知识/Go/attachments/Pasted image 20231010235433.png",
+    "知识/Go/attachments",
+    "每日代办/2023-09-25.md",
     "知识/Go/go视频学习",
     "知识/ModSar",
     "每日代办/2023-09-22.md",
@@ -185,13 +201,6 @@
     "知识/Cmake cook book/C++小知识.md",
     "知识/Cmake cook book/Cmake切换生成器.md",
     "知识/Cmake cook book/attachments/Pasted image 20230919181856.png",
-    "知识/Cmake cook book/attachments",
-    "知识/Cmake cook book/Pasted image 20230919181821.png",
-    "知识/Cmake cook book/Pasted image 20230919181747.png",
-    "Pasted image 20230919181644.png",
-    "知识/Ubuntu/Git命令学习.md",
-    "知识/Cmake cook book",
-    "知识/Ubuntu/VScode安装.md",
-    "README.md"
+    "知识/Cmake cook book/attachments"
   ]
 }

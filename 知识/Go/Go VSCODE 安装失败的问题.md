@@ -36,7 +36,8 @@ Installing golang.org/x/lint/golint FAILED
 https://goproxy.io是一个国内的代理
 执行
 ```
-# 旧版，已废弃 go env -w GO111MODULE=on 
+# 旧版，已废弃 
+go env -w GO111MODULE=on 
 go env -w GOPROXY=https://goproxy.io,direct
 
 
@@ -44,6 +45,15 @@ go env -w GOPROXY=https://goproxy.io,direct
 go env -w GO111MODULE=on 
 go env -w GOPROXY=https://proxy.golang.com.cn,direct
 ```
+
+关闭vscode重新打开，再次点击install all
+
+
+
+
+
+
+
 
 
 开启go mod 代理后也可以手动安装
