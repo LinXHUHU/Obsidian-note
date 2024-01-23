@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"a099f80010647fd7","type":"text","text":"Payload","x":-335,"y":-205,"width":250,"height":60},
+		{"id":"06dae32f763e525b","type":"text","text":"MODSAR层的Payload","x":-335,"y":-400,"width":250,"height":60},
+		{"id":"4112a387c0eca8aa","type":"text","text":"Message","x":-335,"y":-10,"width":250,"height":60},
+		{"id":"7d783d7a06616425","type":"text","text":"message__序列化器__(buffer_view)","x":-335,"y":185,"width":250,"height":60},
+		{"id":"f8d758a691037056","type":"text","text":"Command  这里面自带序列化器，但是command在初始化的时候自带一次拷贝\n1. 创建command\n2. 创建buffer\n3. 将command序列化到buffer中\n4. 发送buffer的头指针\n**SendId的头的大小也是固定的**，但是有很多其他的command，需要考虑，\n\n## 方案\n1. 单独处理，SendCommand中的初始化以及序列化过程","x":-520,"y":380,"width":620,"height":360},
+		{"id":"6dd0519eb815819f","type":"text","text":"Onmessage 收到SendID类型的消息\n- routing_manager_client.cpp:1236 \n\t- 收到data，创建vector 类型的数据，存在一次**拷贝**（去不掉）。\n\t- 构造send command，反序列底层**buffer**到command对象中，存在**拷贝**。其他的拷贝可以有，但是在拷贝数据的时候需要去掉。（此为command的反序列化）\n\t- 获取someip的反序列化器。数据move到反序列化中（set_data），使用move，不存在拷贝\n\t- 执行反序列化，构造message_impl对象，并输出，存在**拷贝**（使用assign）\n\t- 到此转化为 message","x":666,"y":380,"width":748,"height":360},
+		{"id":"f74a52ab99f68d4f","type":"text","text":"Vsomeip 的Message\n- 还需要从command中设置一些信息，包括instance，tcp，chcek状态，其他\n- 进行一系列安全检查\n- host_->on_message(std::move(its_message));，上层app\n- 分发器，分发handler，message已经放到了handler中，**异步处理**，很重要\n- 交给app传下来的 onmessage方法处理","x":703,"y":50,"width":674,"height":240},
+		{"id":"c234135a73f9757b","type":"text","text":"在app中，获取到payload\n- ，respmsg，从message中获取到一些信息\n- 获取 payload\n- 构造modsar 层的PayloadType，采用  std:: move，避免拷贝。\n- ","x":703,"y":-280,"width":674,"height":255},
+		{"id":"4b6927943beaa29a","type":"text","text":"至此结束","x":915,"y":-430,"width":250,"height":60},
+		{"id":"06e50faed3f67712","type":"text","text":"<center>Send</center>","x":-60,"y":960,"width":917,"height":90},
+		{"id":"abb3378f2318ccd4","type":"text","text":"反序列化为了避免多次拷贝，必须考虑使用buffer_view\n并且buffer_view中需要保存原始智能指针，确保不会析构。","x":1580,"y":400,"width":250,"height":430,"color":"4"},
+		{"id":"50aa6c36145a23f8","type":"text","text":"修改bufferview的构造函数","x":1860,"y":460,"width":342,"height":50},
+		{"id":"0abff9c06957172a","type":"text","text":"修改vsomeip反序列化的接口","x":1860,"y":580,"width":342,"height":50},
+		{"id":"cbf7e2b8f5ee1beb","type":"text","text":"修改message","x":1860,"y":720,"width":342,"height":50},
+		{"id":"1cb9b65e7aa10458","type":"file","file":"Excalidraw/MODSAR-vsomeip帧结构.excalidraw.md","x":1160,"y":880,"width":1200,"height":240},
+		{"id":"46214b2a0abec220","type":"text","text":"# 要求\n\n## 必须使用智能指针，管理从上到下的buffer\n\n## 不同的payload 必须要求采用保存bufferview的方式，正反都是的\n\n\n有难度，但是保持一致是最优先的","x":863,"y":1294,"width":1257,"height":546},
+		{"id":"b3aef71b9afdf823","type":"file","file":"Excalidraw/MODSAR-vsomeip帧结构.excalidraw.md","x":-860,"y":-760,"width":1165,"height":180},
+		{"id":"597e8cc0fb97d97d","type":"text","text":"# buffer view 的实现\n\n\n> [!NOTE] 实现方案\n> 1、原始指针构造（放弃！必须使用vector来保存）\n> \t（1）整个buffer 的头指针 + 指针的位置 + 长度\n> \t（2）整个buffer都弄过来\n> \t（3）buffer的指针 + 头位置 + 末尾位置\n> 2、bufferview 初始化\n> \t（1）buffer 引用，全部赋值\n> \t（2）bufferview 引用，长度\n> \t（3）buffer引用，开始位置 ， 结束位置\n","x":3383,"y":660,"width":677,"height":420}
+	],
+	"edges":[
+		{"id":"604165119909c021","fromNode":"06dae32f763e525b","fromSide":"bottom","toNode":"a099f80010647fd7","toSide":"top","label":"move"},
+		{"id":"7eeb23d810fa38c1","fromNode":"a099f80010647fd7","fromSide":"bottom","toNode":"4112a387c0eca8aa","toSide":"top","label":"move"},
+		{"id":"739a1c3dc88188ff","fromNode":"4112a387c0eca8aa","fromSide":"bottom","toNode":"7d783d7a06616425","toSide":"top"},
+		{"id":"dd679520aa550c73","fromNode":"7d783d7a06616425","fromSide":"bottom","toNode":"f8d758a691037056","toSide":"top","label":"取头指针"},
+		{"id":"5d4171801d077c08","fromNode":"f8d758a691037056","fromSide":"bottom","toNode":"06e50faed3f67712","toSide":"left"},
+		{"id":"5c469ab6c96839e8","fromNode":"06e50faed3f67712","fromSide":"right","toNode":"6dd0519eb815819f","toSide":"bottom"},
+		{"id":"85083f7c5b92478b","fromNode":"6dd0519eb815819f","fromSide":"top","toNode":"f74a52ab99f68d4f","toSide":"bottom"},
+		{"id":"00b3e9112413bf0a","fromNode":"f74a52ab99f68d4f","fromSide":"top","toNode":"c234135a73f9757b","toSide":"bottom"},
+		{"id":"bfa1746d452a75ae","fromNode":"c234135a73f9757b","fromSide":"top","toNode":"4b6927943beaa29a","toSide":"bottom"}
+	]
+}

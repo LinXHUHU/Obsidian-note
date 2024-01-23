@@ -2,3 +2,13 @@
 
 输入
 shell:Common Startup
+
+
+asdasd
+
+爱是das d
+
+
+asdasd
+
+asd

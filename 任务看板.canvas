@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"1d2347fd0e344eb2","type":"file","file":"知识/ModSar/MODSAR 性能测试结果/dds-零拷贝测试结果.md","x":720,"y":1840,"width":913,"height":1187},
+		{"id":"9a2622d8f34a7d9c","type":"text","text":"\n> [!ERROR] wireshark + tcpreply 测试通信\n> 1、无法模拟\n> 2、抓包成功\n> 3、tcpreply 重新发送成功\n> 4、客户端可以收到，并解析，但是**不能成功订阅并接收数据**\n> 5、原因可能因为中间缺少某些包，所以导致订阅失败？\n> 6、还是严格**需要两个板子进行测试通信**\n> \n> \n\n![[notify 发布数据.pcapng]]\n\n![[单独广播通信报文.pcapng]]\n\n\n> [!WARNING] Title\n> 1、周日测试不成功\n> 2、原因1：可能是因为报文根本就不是SD报文，或者说SD报文没有发出（端口不一致）\n> 3、原因2：没有打开SD的开关，暂时不可知，概率较小\n> 4、原因3：因为配置文件的问题，SD配置错误\n\n[vsomeip的json配置文件介绍 - jest549 - 博客园 (cnblogs.com)](https://www.cnblogs.com/jest549/p/15885685.html)\n\n[VSOMEIP-配置文件-json文件_vsomeip配置文件-CSDN博客](https://blog.csdn.net/m0_37494262/article/details/132489139)\n\n\n# udp组播通信不同\n\n在进行组播发包的时候，由于板子没有配置网关，不能发送组播包，配一下就可以了\n\n\n[SOMEIP协议--第二节[SOME/SD](SD概述与SD行为)-CSDN博客](https://blog.csdn.net/qq_41816308/article/details/131864293)\n\n[解读SOME/IP & SOME/IP-SD-电子工程专辑 (eet-china.com)](https://www.eet-china.com/mp/a53195.html)\n\n[关于SOME/IP的理解_some ip-CSDN博客](https://blog.csdn.net/AgingMoon/article/details/104166715)\n\n\n[vsomeip的json配置文件介绍 - 码农教程 (manongjc.com)](http://www.manongjc.com/detail/28-vocoqlrkkwhimqz.html) someip配置文件解析\n\n\n\n> [!WARNING] Title\n> \neventid  和  event groupid 有点难以理解，为甚么不能直接订阅groupid，还需要在前面 进行一次 request\n问题就是，一定需要在app_->subscribe 之前调用一次app_->request_event 吗 ？（**不能**，会出现没有注册该event的情况），按照我的理解，需要提前把event 注册到stub中，之后再订阅\n\n\n\n\n","x":480,"y":-580,"width":800,"height":712},
+		{"id":"11936297455e1a85","type":"file","file":"知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas","x":1040,"y":560,"width":840,"height":540},
+		{"id":"fb2a63c42b85061f","type":"text","text":"### FDA 中需要加装 NTP协议，获取网络时间","x":-700,"y":1000,"width":700,"height":220},
+		{"id":"2804983c5afdd7c1","type":"text","text":"\n> [!NOTE] 依赖问题\n> \t依赖有点多，暂时搁置\n","x":560,"y":1260,"width":700,"height":220},
+		{"id":"ba9398f010e5acf1","type":"text","text":"### 实现E2E的SM机制，以及错误处理\n\n待实现，无前置\n\n\n","x":-700,"y":620,"width":700,"height":220},
+		{"id":"8762287be93a5e9e","type":"text","text":"### 完成VSOMEIP序列化的优化过程\n\n比较困难，但是可以长久\n\n\n> [!NOTE] 下一步\n> 继续完善，现阶段实现到了new payload 成功，\n> 还有config读取，前置项目，完整的配置文件\n\n","x":-700,"y":260,"width":700,"height":220},
+		{"id":"409c7168ae8121a6","type":"file","file":"Excalidraw/SD报文结构分析.excalidraw.md","x":380,"y":-1440,"width":560,"height":400},
+		{"id":"ad87af4456602747","type":"file","file":"Excalidraw/vsoemip 服务发现过程.excalidraw.md","x":520,"y":-1040,"width":400,"height":400},
+		{"id":"b0d765d5853f7b35","type":"text","text":"### 完成MCU域的通信\n\n只有通过板子或者模拟才可以\n应该是要优先完成\n1、通过模拟两端通信，抓取发送的报文，然后模拟出所有的报文，不一定要按照MCU那边发出来的东西\n2、","x":-700,"y":-540,"width":700,"height":220},
+		{"id":"a439e42843d73507","type":"text","text":"### 整理E2E配置文件，vsomeip配置文件\n\n\n> [!NOTE] 前提\n> 准备好完整的配置文件，安装配置工具\n> \n\n\n\n\n","x":-700,"y":-80,"width":700,"height":220},
+		{"id":"ff8ff6dae3de0010","type":"file","file":"Attachments/Modsar_CM配置详细说明.docx","x":560,"y":280,"width":520,"height":160},
+		{"id":"a41ee7c76a96572b","type":"text","text":"# 零拷贝性能测试","x":-680,"y":1840,"width":700,"height":220}
+	],
+	"edges":[
+		{"id":"55befee0c744f41f","fromNode":"8762287be93a5e9e","fromSide":"right","toNode":"11936297455e1a85","toSide":"left"},
+		{"id":"7aea2b4298a0f7d9","fromNode":"b0d765d5853f7b35","fromSide":"right","toNode":"9a2622d8f34a7d9c","toSide":"left"},
+		{"id":"fcb6c176ba8a9a07","fromNode":"fb2a63c42b85061f","fromSide":"right","toNode":"2804983c5afdd7c1","toSide":"left"},
+		{"id":"91f089c1a516f1ef","fromNode":"b0d765d5853f7b35","fromSide":"right","toNode":"409c7168ae8121a6","toSide":"left"},
+		{"id":"8ec185a680265f2f","fromNode":"b0d765d5853f7b35","fromSide":"right","toNode":"ad87af4456602747","toSide":"left"},
+		{"id":"f2405950b6ca8806","fromNode":"a439e42843d73507","fromSide":"right","toNode":"ff8ff6dae3de0010","toSide":"left"},
+		{"id":"bff1ab131a7ca97f","fromNode":"a41ee7c76a96572b","fromSide":"right","toNode":"1d2347fd0e344eb2","toSide":"left"}
+	]
+}
