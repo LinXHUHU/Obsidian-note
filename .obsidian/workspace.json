@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ef9d0fcf81a89b",
+        "id": "c6afa6167d4f0acf",
         "type": "tabs",
         "children": [
           {
-            "id": "ee0ac0f277a8635e",
+            "id": "38194d082cca13e3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "0942c71ca41bf0ef",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "知识/Rust/3. 通用变成概念.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/Rust/3. 通用变成概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识/Rust/3. 通用变成概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识/Rust/3. 通用变成概念.md"
+              }
             }
           },
           {
@@ -161,11 +154,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 602.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0942c71ca41bf0ef",
+  "active": "38194d082cca13e3",
   "lastOpenFiles": [
+    "知识/Rust/3. 通用变成概念.md",
+    "知识/OTA客户项目开发步骤/Uds 协议.md",
     "conflict-files-obsidian-git.md",
     "表3-1.md",
     "知识/Rust/1. 入门指南.md",
@@ -196,7 +191,6 @@
     "知识/Go/attachments/Pasted image 20231010235433.png",
     "知识/Go/attachments",
     "知识/Windows/win10开机启动项设置方法.md",
-    "知识/Rust/3. 通用变成概念.md",
     "Attachments/Pasted image 20240123180309.png",
     "Attachments/Pasted image 20240123180303.png",
     "Attachments/Pasted image 20240123180240.png",
@@ -210,7 +204,6 @@
     "知识/ModSar/modsar e2e/e2e 开发过程日志.md",
     "知识/ModSar/MODSAR日志框架开发/MODSAR-log 开发日志记录.md",
     "知识/ModSar/modsar e2e/Vsomeip e2e.md",
-    "知识/OTA客户项目开发步骤/Uds 协议.md",
     "Attachments/Pasted image 20240122110752.png",
     "Attachments/Pasted image 20240122110519.png",
     "知识/ModSar/modsar e2e/MODSAR E2E 通信保护机制.md",
