@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Typora-Vue"
+  "cssTheme": "Typora-Vue",
+  "monospaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "baseFontSize": 16
 }
