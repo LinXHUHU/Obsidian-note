@@ -11,11 +11,10 @@
             "id": "38194d082cca13e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "知识/Rust/4. 认识所有权.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Rust/4. 认识所有权.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Rust/4. 认识所有权.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知识/Rust/4. 认识所有权.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,11 +149,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 510.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +169,14 @@
   },
   "active": "38194d082cca13e3",
   "lastOpenFiles": [
+    "知识/OTA客户项目开发步骤/Uds 协议.md",
+    "知识/OTA客户项目开发步骤/软件释放步骤.md",
     "知识/Rust/3. 通用变成概念.md",
     "知识/Rust/4. 认识所有权.md",
     "知识/Obsidian技能.md",
     "知识/Windows/win10开机启动项设置方法.md",
     "知识/Rust/2. 猜数字游戏.md",
     "知识/Rust/1. 入门指南.md",
-    "知识/OTA客户项目开发步骤/Uds 协议.md",
     "conflict-files-obsidian-git.md",
     "表3-1.md",
     "知识/Go/项目：仿云存储/attachments/Pasted image 20231011205400.png",
@@ -201,7 +197,6 @@
     "知识/Rust/Rust程序设计语言",
     "知识/Rust",
     "知识/Ubuntu/压缩相关.md",
-    "知识/OTA客户项目开发步骤/软件释放步骤.md",
     "知识/ModSar/MODSAR日志框架开发/日志框架开发信息.md",
     "知识/ModSar/modsar e2e/e2e 开发过程日志.md",
     "知识/ModSar/MODSAR日志框架开发/MODSAR-log 开发日志记录.md",
@@ -213,7 +208,7 @@
     "知识/ModSar/modsar e2e/AUTOSAR API规范.md",
     "知识/ModSar/modsar e2e/COM模块调用e2e 流程.md",
     "知识/ModSar/MODSAR日志框架开发/1、LOG需求分析，以及任务安排.md",
-    "知识/OTA客户项目开发步骤/Repo 使用方法.md",
+    "知识/Repo 使用方法.md",
     "知识/OTA客户项目开发步骤",
     "知识/Ubuntu/VScode安装.md",
     "知识/MODSAR交叉编译—docker/Modsar Docker 2.0使用说明.md",
