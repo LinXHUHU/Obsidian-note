@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Rust/3. 通用变成概念.md",
+                "file": "知识/Obsidian技能.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Rust/3. 通用变成概念.md",
+                "file": "知识/Obsidian技能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Rust/3. 通用变成概念.md",
+                "file": "知识/Obsidian技能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Rust/3. 通用变成概念.md"
+                "file": "知识/Obsidian技能.md"
               }
             }
           },
@@ -174,11 +174,14 @@
   },
   "active": "38194d082cca13e3",
   "lastOpenFiles": [
+    "知识/Windows/win10开机启动项设置方法.md",
+    "知识/Obsidian技能.md",
     "知识/Rust/3. 通用变成概念.md",
+    "知识/Rust/2. 猜数字游戏.md",
+    "知识/Rust/1. 入门指南.md",
     "知识/OTA客户项目开发步骤/Uds 协议.md",
     "conflict-files-obsidian-git.md",
     "表3-1.md",
-    "知识/Rust/1. 入门指南.md",
     "知识/Go/项目：仿云存储/attachments/Pasted image 20231011205400.png",
     "知识/Go/项目：仿云存储/attachments",
     "知识/Go/项目：仿云存储/学习记录1.md",
@@ -190,11 +193,9 @@
     "知识/Go/attachments/Pasted image 20231010235529.png",
     "知识/Go/attachments/Pasted image 20231010235433.png",
     "知识/Go/attachments",
-    "知识/Windows/win10开机启动项设置方法.md",
     "Attachments/Pasted image 20240123180309.png",
     "Attachments/Pasted image 20240123180303.png",
     "Attachments/Pasted image 20240123180240.png",
-    "知识/Rust/2. 猜数字游戏.md",
     "知识/Rust/未命名.md",
     "知识/Rust/Rust程序设计语言",
     "知识/Rust",
@@ -214,7 +215,6 @@
     "知识/OTA客户项目开发步骤/Repo 使用方法.md",
     "知识/OTA客户项目开发步骤",
     "知识/Ubuntu/VScode安装.md",
-    "知识/Obsidian技能.md",
     "知识/MODSAR交叉编译—docker/Modsar Docker 2.0使用说明.md",
     "Attachments/e2e 开发过程日志 2024-01-10 14.16.31.excalidraw.md",
     "知识/ModSar/其他问题",
