@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Rust/Rust程序设计语言/3. 通用变成概念.md",
+                "file": "知识/Rust/Rust程序设计语言/4. 认识所有权.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Rust/Rust程序设计语言/3. 通用变成概念.md",
+                "file": "知识/Rust/Rust程序设计语言/4. 认识所有权.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Rust/Rust程序设计语言/3. 通用变成概念.md",
+                "file": "知识/Rust/Rust程序设计语言/4. 认识所有权.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Rust/Rust程序设计语言/3. 通用变成概念.md"
+                "file": "知识/Rust/Rust程序设计语言/4. 认识所有权.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "a01b478a2e865727",
   "lastOpenFiles": [
-    "知识/Rust/Rust程序设计语言/4. 认识所有权.md",
     "知识/Rust/Rust程序设计语言/3. 通用变成概念.md",
+    "知识/Rust/Rust程序设计语言/4. 认识所有权.md",
     "知识/Rust/Rustling实践.md",
     "知识/OTA客户项目开发步骤/Uds 协议.md",
     "知识/OTA客户项目开发步骤/软件释放步骤.md",
