@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c6afa6167d4f0acf",
+        "id": "c12d6c48fa429f68",
         "type": "tabs",
         "children": [
           {
-            "id": "38194d082cca13e3",
+            "id": "a01b478a2e865727",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "知识/Rust/4. 认识所有权.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/Rust/4. 认识所有权.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识/Rust/4. 认识所有权.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识/Rust/4. 认识所有权.md"
+              }
             }
           },
           {
@@ -167,7 +172,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38194d082cca13e3",
+  "active": "a01b478a2e865727",
   "lastOpenFiles": [
     "知识/OTA客户项目开发步骤/Uds 协议.md",
     "知识/OTA客户项目开发步骤/软件释放步骤.md",
