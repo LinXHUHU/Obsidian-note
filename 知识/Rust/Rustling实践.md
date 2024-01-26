@@ -4,3 +4,5 @@
 		- **多义性的情况：** 当一个函数有多个可能的返回类型时
 		- **希望强制函数返回特定的类型：** 如果你想要确保函数返回的类型是特定的
 		- 无法指定的时候默认u32
+- Rust distinguishes between expressions and statements
+	- 可以直接使用return，不用那么麻烦了
