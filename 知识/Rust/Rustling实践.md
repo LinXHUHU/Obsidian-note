@@ -6,3 +6,12 @@
 		- 无法指定的时候默认u32
 - Rust distinguishes between expressions and statements
 	- 可以直接使用return，不用那么麻烦了
+
+
+
+
+
+
+**类单元结构体常常在你想要在某个类型上实现 trait 但不需要在类型中存储数据的时候发挥作用。我们将在第 10 章介绍 trait。**
+
+
