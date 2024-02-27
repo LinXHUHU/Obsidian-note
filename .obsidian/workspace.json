@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c12d6c48fa429f68",
+        "id": "8be6a0c87580803b",
         "type": "tabs",
         "children": [
           {
-            "id": "a01b478a2e865727",
+            "id": "0da350c093452e06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识/Rust/开源项目学习/所有项目说明.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdc35283009fb909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,9 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bdc35283009fb909",
+  "active": "0da350c093452e06",
   "lastOpenFiles": [
+    "Excalidraw/SD报文结构分析.excalidraw.md",
     "知识/Rust/开源项目学习/所有项目说明.md",
+    "知识/Ubuntu/系统服务，systemd service.md",
     "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
     "知识/Rust/开源项目学习/ChatGpt",
     "知识/Rust/Rust程序设计语言/6. 枚举和模式匹配.md",
@@ -229,10 +211,8 @@
     "知识/ModSar/MODSAR日志框架开发/日志框架开发信息.md",
     "知识/ModSar/modsar e2e/e2e 开发过程日志.md",
     "知识/ModSar/MODSAR日志框架开发/MODSAR-log 开发日志记录.md",
-    "知识/ModSar/modsar e2e/Vsomeip e2e.md",
     "Attachments/Pasted image 20240122110752.png",
     "Attachments/Pasted image 20240122110519.png",
-    "知识/ModSar/modsar e2e/MODSAR E2E 通信保护机制.md",
     "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
