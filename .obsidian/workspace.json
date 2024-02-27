@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Rust/开源项目学习/所有项目说明.md",
+                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Rust/开源项目学习/所有项目说明.md",
+                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Rust/开源项目学习/所有项目说明.md",
+                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Rust/开源项目学习/所有项目说明.md"
+                "file": "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md"
               }
             }
           },
@@ -187,8 +187,10 @@
   },
   "active": "bdc35283009fb909",
   "lastOpenFiles": [
-    "知识/Rust/Rust程序设计语言/6. 枚举和模式匹配.md",
     "知识/Rust/开源项目学习/所有项目说明.md",
+    "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
+    "知识/Rust/开源项目学习/ChatGpt",
+    "知识/Rust/Rust程序设计语言/6. 枚举和模式匹配.md",
     "知识/Rust/开源项目学习/sixtyfps",
     "知识/Rust/开源项目学习/sled",
     "知识/Rust/开源项目学习/tantivy",
@@ -198,7 +200,6 @@
     "知识/Rust/开源项目学习/wasmer",
     "知识/Rust/开源项目学习/AppFlowy",
     "知识/Rust/开源项目学习/Bevy",
-    "知识/Rust/开源项目学习/actix-web",
     "知识/Rust/Rust程序设计语言/9.错误处理/9.2 Result 与可恢复的错误.md",
     "知识/Rust/Rustling实践.md",
     "知识/Rust/Rust程序设计语言/5. 结构体.md",
@@ -232,7 +233,6 @@
     "Attachments/Pasted image 20240122110752.png",
     "Attachments/Pasted image 20240122110519.png",
     "知识/ModSar/modsar e2e/MODSAR E2E 通信保护机制.md",
-    "知识/ModSar/modsar e2e/AOS 头文件分析.md",
     "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
