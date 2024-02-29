@@ -3,17 +3,18 @@
 > 发明的技术领域，让读者有一个整体印象
 
   
+  
 Technical Field of the Invention:
 
-The technical field of the invention pertains to data integrity protection mechanisms in communication systems, particularly in the context of automotive electronic systems. Specifically, it involves ensuring the integrity and reliability of data transmitted between different components or nodes within the automotive network. The purpose is to safeguard critical data as it travels from its source to its destination, thereby maintaining the functionality and safety of the overall automotive system.
+The invention operates within the technical field of data integrity protection mechanisms in communication systems, with a particular focus on optimizing End-to-End (E2E) verification processes. This technology is highly relevant in various industries where data transmission reliability and security are critical, including automotive, aerospace, telecommunications, and industrial automation.
 
 Prior Art State:
 
-In the realm of automotive electronics and communication systems, ensuring data integrity during transmission has been a longstanding concern. Traditional methods for data protection, such as error detection and correction codes, have been employed to address this issue. However, with the increasing complexity and connectivity of modern automotive networks, more sophisticated solutions are required to effectively mitigate the risks associated with data corruption, tampering, or interception.
+In the prior art, particularly in the context of automotive communication systems, ensuring the integrity and reliability of data during transmission has been a significant concern. Traditional E2E mechanisms often involve multiple data copying operations as data packets traverse through different layers or components of the communication stack. While effective in verifying data integrity, these methods suffer from inefficiencies due to redundant data copying, leading to increased processing overhead and reduced system performance.
 
-One of the prominent technologies used in this domain is End-to-End (E2E) data integrity protection. E2E mechanisms employ cryptographic techniques, checksums, or other integrity verification methods to verify the authenticity and integrity of data packets from their source to their destination. These mechanisms provide a robust defense against various threats, including data manipulation, injection of malicious payloads, or unauthorized access.
+Various protocols, standards, and implementations have been developed to address these challenges, including those specified by organizations like Autosar (AUTomotive Open System ARchitecture) and industry standards such as ISO 26262 for functional safety in automotive systems. Additionally, research and development efforts have explored advanced cryptographic techniques, checksum algorithms, and error detection/correction methods to enhance the reliability and security of data transmission.
 
-The prior art in this field includes various protocols, standards, and implementations aimed at ensuring E2E data integrity in automotive communication networks. These may include protocols specified by organizations like Autosar (AUTomotive Open System ARchitecture) or industry standards such as ISO 26262 for functional safety in automotive systems. Additionally, research and development efforts from academia and industry have contributed to advancing the state-of-the-art in E2E data protection mechanisms tailored to the specific requirements and challenges of automotive applications.
+However, despite these advancements, the prior art often lacks efficient solutions to minimize the number of data copying operations during E2E verification, leading to suboptimal performance and resource utilization. This limitation underscores the need for innovative approaches to improve the efficiency and effectiveness of data integrity protection mechanisms in communication systems, which the present invention aims to address.
 
 
 > 发明用来解决的问题
@@ -34,10 +35,25 @@ In summary, the improvement introduced in the invention aims to address the inef
 
 > 发明或者改进的优点，尤其是跟现有的已知的方法的比较(也可以不比较)
 
-优点：可以在保证实现各种通信验证功能的前提下，使得e2e 运行速度更快。
+  
+Main Improvements and Advantages of the Invention:
 
-速度比较？
+The main improvement introduced by the invention is the reduction of data copying operations during the End-to-End (E2E) verification process, thereby enhancing the efficiency and performance of data integrity protection mechanisms in automotive communication systems. Compared to the prior art, which often involves redundant data copying operations at different layers or components of the communication stack, the invention minimizes such inefficiencies by implementing zero-copy techniques or optimizing data handling processes.
 
+The advantages of the invention over the state of the art include:
+
+1. **Improved Efficiency**: By reducing the number of data copying operations, the invention significantly reduces the computational overhead associated with E2E data integrity verification. This results in improved system efficiency and resource utilization, allowing automotive communication systems to handle higher data throughput and processing loads more effectively.
+    
+2. **Enhanced Performance**: The optimization introduced by the invention leads to faster data transmission and processing, as fewer data copying operations are required during the E2E verification process. This results in reduced latency and improved responsiveness in automotive communication networks, enhancing overall system performance and user experience.
+    
+3. **Lower Resource Consumption**: The invention helps to conserve system resources, such as CPU cycles and memory bandwidth, by minimizing unnecessary data copying operations. This allows automotive electronic systems to operate more efficiently, extending the lifespan of hardware components and reducing energy consumption.
+    
+4. **Maintained Security and Reliability**: Despite reducing data copying operations, the invention ensures that data integrity protection mechanisms remain robust and reliable. By employing advanced cryptographic techniques or checksum algorithms, the invention maintains the same level of security and reliability as traditional E2E mechanisms, while improving efficiency.
+    
+5. **Scalability and Flexibility**: The optimization introduced by the invention is applicable to a wide range of automotive communication systems, from embedded control units to high-performance computing platforms. Its scalability and flexibility make it suitable for various automotive applications, enabling seamless integration and interoperability with existing infrastructure and protocols.
+    
+
+In summary, the invention offers significant improvements over the state of the art by reducing data copying operations during E2E verification, leading to enhanced efficiency, performance, and resource utilization in automotive communication systems.
 
 
 
