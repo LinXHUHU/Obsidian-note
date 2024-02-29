@@ -2,58 +2,60 @@
 
 > 发明的技术领域，让读者有一个整体印象
 
-  
-  
-Technical Field of the Invention:
 
-The invention operates within the technical field of data integrity protection mechanisms in communication systems, with a particular focus on optimizing End-to-End (E2E) verification processes. This technology is highly relevant in various industries where data transmission reliability and security are critical, including automotive, aerospace, telecommunications, and industrial automation.
+发明的技术领域：
 
-Prior Art State:
+该发明涉及通信系统中数据完整性保护机制的技术领域，特别关注优化端到端（End-to-End，E2E）验证过程。这项技术在各种行业中都具有高度相关性，其中数据传输的可靠性和安全性至关重要，包括汽车、航空航天、电信和工业自动化。
 
-In the prior art, particularly in the context of automotive communication systems, ensuring the integrity and reliability of data during transmission has been a significant concern. Traditional E2E mechanisms often involve multiple data copying operations as data packets traverse through different layers or components of the communication stack. While effective in verifying data integrity, these methods suffer from inefficiencies due to redundant data copying, leading to increased processing overhead and reduced system performance.
+现有技术状态：
 
-Various protocols, standards, and implementations have been developed to address these challenges, including those specified by organizations like Autosar (AUTomotive Open System ARchitecture) and industry standards such as ISO 26262 for functional safety in automotive systems. Additionally, research and development efforts have explored advanced cryptographic techniques, checksum algorithms, and error detection/correction methods to enhance the reliability and security of data transmission.
+在现有技术中，特别是在汽车通信系统的背景下，确保数据在传输过程中的完整性和可靠性一直是一个重大关注点。传统的端到端机制通常涉及多次数据复制操作，因为数据包通过通信栈的不同层或组件进行传递。虽然这些方法在验证数据完整性方面有效，但由于冗余数据复制导致了效率低下，增加了处理开销并降低了系统性能。
 
-However, despite these advancements, the prior art often lacks efficient solutions to minimize the number of data copying operations during E2E verification, leading to suboptimal performance and resource utilization. This limitation underscores the need for innovative approaches to improve the efficiency and effectiveness of data integrity protection mechanisms in communication systems, which the present invention aims to address.
+已经开发了各种协议、标准和实现来解决这些挑战，包括由Autosar（汽车开放系统架构）等组织指定的协议和行业标准，如ISO 26262用于汽车系统功能安全。此外，研究和开发工作还探索了先进的加密技术、校验和算法以及错误检测/纠正方法，以提高数据传输的可靠性和安全性。
+
+然而，尽管取得了这些进展，但现有技术往往缺乏有效的解决方案来最小化端到端验证过程中的数据复制次数，从而导致性能和资源利用的不佳。这种局限性突显了对创新方法的需求，以改进通信系统中数据完整性保护机制的效率和有效性，而这正是本发明的目标所在。
+
 
 
 > 发明用来解决的问题
 
-  
-Problem to be Solved and Improvement in Prior Art:
+    
+问题解决和先前技术改进：
 
-The problem to be solved in the prior art of End-to-End (E2E) data integrity protection mechanisms, particularly in the context of automotive communication systems, is the inefficiency caused by excessive data copying during the verification process. Traditional E2E mechanisms often involve multiple copies of data packets as they traverse through different layers or components of the communication stack, leading to increased processing overhead and reduced efficiency.
+在End-to-End（E2E）数据完整性保护机制的先前技术中，特别是在汽车通信系统的背景下，要解决的问题是在验证过程中过多的数据复制所导致的低效率。传统的E2E机制通常涉及数据包在通过通信栈的不同层或组件时的多次复制，这会增加处理开销并降低效率。
 
-One of the significant defects of the prior art is the inherent inefficiency in data handling, particularly concerning the verification of data integrity. Each layer or component in the communication stack may perform its own copy of the data packet to compute checksums or perform integrity checks, resulting in redundant data copying operations that consume computational resources and degrade overall system performance.
+先前技术的一个显著缺陷是数据处理方面的固有低效性，特别是在验证数据完整性时。通信栈中的每个层或组件可能会对数据包进行自己的复制，以计算校验和或执行完整性检查，导致冗余的数据复制操作，消耗计算资源并降低整个系统的性能。
 
-The invention addresses this issue by introducing an improvement that reduces the number of data copying operations during the E2E verification process. By optimizing the implementation of E2E mechanisms, such as employing zero-copy techniques or minimizing unnecessary data transfers between different layers or components, the invention aims to enhance the efficiency of E2E data integrity protection while maintaining the same level of security and reliability.
+本发明通过引入一项改进来解决这个问题，该改进减少了端到端（E2E）验证过程中的数据复制操作次数。通过优化E2E机制的实现，例如采用零拷贝技术或减少不必要的数据传输，以及在不降低数据完整性和安全性的前提下，本发明旨在提高E2E数据完整性保护的效率。
 
-Specifically, the proposed improvement seeks to minimize the overhead associated with data copying operations without compromising the integrity or security of the data. This can be achieved by optimizing the design and implementation of E2E mechanisms to eliminate redundant data copying and streamline the verification process, thereby reducing computational overhead and improving overall system efficiency.
+具体而言，所提出的改进旨在最小化与数据复制操作相关的开销，同时不影响数据的完整性或安全性。这可以通过优化E2E机制的设计和实现来实现，以消除冗余的数据复制并简化验证过程，从而减少计算开销并提高整个系统的效率。
 
-In summary, the improvement introduced in the invention aims to address the inefficiencies and limitations of the prior art by reducing the number of data copying operations during the E2E verification process. By optimizing data handling techniques and minimizing unnecessary overhead, the invention enhances the efficiency and performance of E2E data integrity protection mechanisms in automotive communication systems.
+总之，本发明引入的改进旨在通过减少端到端验证过程中的数据复制操作次数来解决先前技术的低效性和局限性。通过优化数据处理技术并减少不必要的开销，本发明提高了汽车通信系统中端到端数据完整性保护机制的效率和性能。
+
 
 
 > 发明或者改进的优点，尤其是跟现有的已知的方法的比较(也可以不比较)
 
   
-Main Improvements and Advantages of the Invention:
+  
+发明的主要改进和优势：
 
-The main improvement introduced by the invention is the reduction of data copying operations during the End-to-End (E2E) verification process, thereby enhancing the efficiency and performance of data integrity protection mechanisms in automotive communication systems. Compared to the prior art, which often involves redundant data copying operations at different layers or components of the communication stack, the invention minimizes such inefficiencies by implementing zero-copy techniques or optimizing data handling processes.
+本发明引入的主要改进是在端到端（E2E）验证过程中减少数据复制操作，从而提高汽车通信系统中数据完整性保护机制的效率和性能。与先前技术相比，该发明通过实施零拷贝技术或优化数据处理流程，最小化了不同层或组件之间的冗余数据复制操作。
 
-The advantages of the invention over the state of the art include:
+本发明相对于先前技术的优势包括：
 
-1. **Improved Efficiency**: By reducing the number of data copying operations, the invention significantly reduces the computational overhead associated with E2E data integrity verification. This results in improved system efficiency and resource utilization, allowing automotive communication systems to handle higher data throughput and processing loads more effectively.
+1. **提高效率**：通过减少数据复制操作的数量，本发明显著降低了与E2E数据完整性验证相关的计算开销。这提高了系统的效率和资源利用率，使汽车通信系统能够更有效地处理更高的数据吞吐量和处理负载。
     
-2. **Enhanced Performance**: The optimization introduced by the invention leads to faster data transmission and processing, as fewer data copying operations are required during the E2E verification process. This results in reduced latency and improved responsiveness in automotive communication networks, enhancing overall system performance and user experience.
+2. **增强性能**：本发明引入的优化导致了更快的数据传输和处理，因为在端到端验证过程中需要较少的数据复制操作。这降低了汽车通信网络中的延迟，提高了响应速度，增强了整体系统性能和用户体验。
     
-3. **Lower Resource Consumption**: The invention helps to conserve system resources, such as CPU cycles and memory bandwidth, by minimizing unnecessary data copying operations. This allows automotive electronic systems to operate more efficiently, extending the lifespan of hardware components and reducing energy consumption.
+3. **降低资源消耗**：本发明通过最小化不必要的数据复制操作，有助于节省系统资源，如CPU周期和内存带宽。这使汽车电子系统能够更有效地运行，延长了硬件组件的使用寿命并降低了能源消耗。
     
-4. **Maintained Security and Reliability**: Despite reducing data copying operations, the invention ensures that data integrity protection mechanisms remain robust and reliable. By employing advanced cryptographic techniques or checksum algorithms, the invention maintains the same level of security and reliability as traditional E2E mechanisms, while improving efficiency.
+4. **保持安全性和可靠性**：尽管减少了数据复制操作，但本发明确保数据完整性保护机制仍然健壮可靠。通过采用先进的加密技术或校验和算法，本发明保持了与传统的E2E机制相同的安全性和可靠性，同时提高了效率。
     
-5. **Scalability and Flexibility**: The optimization introduced by the invention is applicable to a wide range of automotive communication systems, from embedded control units to high-performance computing platforms. Its scalability and flexibility make it suitable for various automotive applications, enabling seamless integration and interoperability with existing infrastructure and protocols.
+5. **可扩展性和灵活性**：本发明引入的优化适用于各种汽车通信系统，从嵌入式控制单元到高性能计算平台。其可扩展性和灵活性使其适用于各种汽车应用，实现了与现有基础设施和协议的无缝集成和互操作性。
     
 
-In summary, the invention offers significant improvements over the state of the art by reducing data copying operations during E2E verification, leading to enhanced efficiency, performance, and resource utilization in automotive communication systems.
+总之，本发明通过减少端到端验证过程中的数据复制操作，提高了汽车通信系统中的效率、性能和资源利用率，相对于先前技术具有显著的改进。
 
 
 
