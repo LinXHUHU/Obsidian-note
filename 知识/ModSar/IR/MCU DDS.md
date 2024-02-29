@@ -1,42 +1,37 @@
 
 > 1.   **Technical field of the invention and Prior art state**. (_Please give a brief introduction about the technical field of the invention._ The purpose is to let the readers of this document have a brief information about the technology)
 
-**英文：**
-The technical field of this invention revolves around communication systems and data distribution technologies, particularly in the context of embedded systems and microcontroller units (MCUs). In modern distributed systems, efficient and reliable communication between various components is crucial for seamless operation and data exchange. Prior art in this field includes various communication protocols and middleware solutions designed to facilitate communication among different devices and subsystems. However, traditional approaches may face limitations in terms of scalability, real-time performance, and resource efficiency, especially when deployed in resource-constrained environments such as embedded systems.
+该发明的技术领域围绕通信系统和数据分发技术展开，特别是在嵌入式系统和微控制器单元（MCUs）的背景下。在现代分布式系统中，各种组件之间的高效可靠通信对于无缝运行和数据交换至关重要。该领域的先前技术包括各种通信协议和中间件解决方案，旨在促进不同设备和子系统之间的通信。然而，传统方法在可扩展性、实时性能和资源效率方面可能存在限制，特别是在嵌入式系统等资源受限环境中部署时。
 
-In this context, the invention addresses the need for a lightweight, efficient, and scalable data distribution solution tailored specifically for MCU environments. By leveraging existing open-source libraries such as CycloneDDS, the invention aims to provide a robust and customizable DDS implementation optimized for embedded systems. This approach builds upon the foundation of prior art while introducing innovations to overcome the limitations associated with traditional communication protocols. Through this invention, MCU-based devices can achieve enhanced communication capabilities, enabling seamless integration into distributed systems and improving overall system performance and reliability.
-
-**中文**
-
+在这种情况下，该发明解决了针对MCU环境定制的轻量级、高效和可扩展的数据分发解决方案的需求。通过利用现有的开源库，如CycloneDDS，该发明旨在提供一个针对嵌入式系统进行优化的稳健且可定制的DDS实现。这种方法建立在先前技术的基础上，同时引入创新以克服传统通信协议所带来的限制。通过这一发明，基于MCU的设备可以实现增强的通信能力，实现与分布式系统的无缝集成，提高整体系统的性能和可靠性。
 
 
 > 1.   **Problem to be solved; which prior art defects can be improved?** (As a logic sequence of the state of art, please point out the defeats of the state of art which has been overcome in the invention)
 
+  
+在现有技术的背景下，传统通信协议和中间件解决方案存在一些限制和缺陷，特别是在应用于微控制器单元（MCU）环境时。这些缺陷包括：
 
-
-In the context of the state of the art, several limitations and shortcomings exist in traditional communication protocols and middleware solutions, especially when applied to microcontroller unit (MCU) environments. These defects include:
-
-1. **Limited Scalability**: Prior art communication protocols may struggle to scale effectively in MCU-based systems, particularly in scenarios involving a large number of interconnected devices. Traditional solutions may lack the flexibility to accommodate dynamic network topologies and varying data exchange requirements, leading to scalability issues and potential system bottlenecks.
+1. **可扩展性有限**：先前的通信协议在基于MCU的系统中可能难以有效地进行扩展，特别是在涉及大量互连设备的情况下。传统解决方案可能缺乏灵活性，无法适应动态网络拓扑和不同的数据交换需求，从而导致可扩展性问题和潜在的系统瓶颈。
     
-2. **Real-time Performance**: Many existing communication protocols and middleware solutions may fail to meet the stringent real-time performance requirements of MCU-based applications. Delays in data transmission and processing can compromise the responsiveness and reliability of critical functionalities, such as sensor data fusion and control loop execution, leading to suboptimal system performance.
+2. **实时性能**：许多现有的通信协议和中间件解决方案可能无法满足基于MCU的应用的严格实时性能要求。数据传输和处理的延迟可能会影响到关键功能的响应能力和可靠性，如传感器数据融合和控制环执行，从而导致系统性能下降。
     
-3. **Resource Consumption**: Traditional communication protocols and middleware solutions often impose significant resource overhead on MCU-based systems, including memory footprint, processing power, and energy consumption. This can limit the scalability and efficiency of the system, particularly in resource-constrained environments where minimizing resource utilization is critical.
+3. **资源消耗**：传统的通信协议和中间件解决方案通常会对基于MCU的系统施加重大资源开销，包括内存占用、处理能力和能耗。这可能会限制系统的可扩展性和效率，特别是在资源受限的环境中，最大限度地减少资源利用是至关重要的。
     
-4. **Complexity and Overhead**: Some prior art solutions may introduce unnecessary complexity and overhead in MCU-based systems, making them difficult to implement, maintain, and optimize. Complex communication stacks and middleware layers can increase development time and effort, as well as introduce potential points of failure and performance bottlenecks.
-    
-
-The invention aims to address these defects and limitations present in the state of the art by introducing a lightweight, efficient, and scalable DDS implementation specifically tailored for MCU environments. By leveraging the CycloneDDS open-source library, the invention overcomes the shortcomings of traditional communication protocols and middleware solutions by:
-
-- **Improving Scalability**: The invention provides a flexible and scalable data distribution solution capable of adapting to dynamic network configurations and varying data exchange requirements in MCU-based systems. By leveraging the publish-subscribe communication model of DDS, the invention facilitates efficient and seamless communication among distributed components.
-    
-- **Enhancing Real-time Performance**: By optimizing data transmission and processing algorithms, the invention ensures timely and predictable data delivery, meeting the stringent real-time requirements of MCU-based applications. This improves the responsiveness and reliability of critical functionalities, such as sensor data acquisition and actuator control, leading to improved system performance.
-    
-- **Reducing Resource Consumption**: The lightweight and efficient design of the invention minimizes resource overhead on MCU-based systems, including memory footprint, processing power, and energy consumption. This allows for efficient resource utilization, enabling MCU-based devices to operate more effectively in resource-constrained environments.
-    
-- **Simplifying Implementation and Maintenance**: The invention provides a streamlined and easy-to-use DDS implementation, reducing complexity and overhead associated with traditional communication protocols and middleware solutions. By leveraging the CycloneDDS open-source library, the invention simplifies the development, deployment, and maintenance of communication infrastructure in MCU-based systems.
+4. **复杂性和开销**：一些先前的解决方案可能会在基于MCU的系统中引入不必要的复杂性和开销，使其难以实现、维护和优化。复杂的通信堆栈和中间件层可能会增加开发时间和工作量，同时引入潜在的故障点和性能瓶颈。
     
 
-In summary, the invention addresses the limitations and defects of the prior art by introducing a lightweight, efficient, and scalable DDS implementation tailored specifically for MCU environments. By leveraging the advantages of the CycloneDDS open-source library, the invention provides a robust and customizable solution for efficient data distribution in MCU-based systems, enabling enhanced system performance, reliability, and scalability.
+该发明旨在通过引入针对MCU环境定制的轻量级、高效和可扩展的DDS实现，解决现有技术中存在的这些缺陷和限制。通过利用CycloneDDS开源库，该发明通过以下方式克服了传统通信协议和中间件解决方案的缺陷：
+
+- **提高可扩展性**：该发明提供了一个灵活和可扩展的数据分发解决方案，能够适应基于MCU的系统中动态的网络配置和不同的数据交换需求。通过利用DDS的发布-订阅通信模型，该发明促进了分布式组件之间的高效无缝通信。
+    
+- **增强实时性能**：通过优化数据传输和处理算法，该发明确保了及时和可预测的数据传递，满足基于MCU的应用的严格实时要求。这提高了关键功能的响应能力和可靠性，如传感器数据采集和执行器控制，从而提高了系统性能。
+    
+- **降低资源消耗**：该发明的轻量级和高效设计减少了基于MCU的系统的资源开销，包括内存占用、处理能力和能耗。这允许有效利用资源，使基于MCU的设备能够在资源受限的环境中更有效地运行。
+    
+- **简化实现和维护**：该发明提供了一个简化和易于使用的DDS实现，减少了与传统通信协议和中间件解决方案相关的复杂性和开销。通过利用CycloneDDS开源库，该发明简化了基于MCU的系统中通信基础设施的开发、部署和维护过程。
+    
+
+总之，该发明通过引入针对MCU环境定制的轻量级、高效和可扩展的DDS实现，解决了现有技术的限制和缺陷。通过利用CycloneDDS开源库的优势，该发明为基于MCU的系统提供了一个强大且可定制的解决方案，用于高效地数据分发，从而提高了系统性能、可靠性和可扩展性。
 
 
 
