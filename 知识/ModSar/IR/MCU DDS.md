@@ -1,10 +1,13 @@
 
 > 1.   **Technical field of the invention and Prior art state**. (_Please give a brief introduction about the technical field of the invention._ The purpose is to let the readers of this document have a brief information about the technology)
 
-
+**英文：**
 The technical field of this invention revolves around communication systems and data distribution technologies, particularly in the context of embedded systems and microcontroller units (MCUs). In modern distributed systems, efficient and reliable communication between various components is crucial for seamless operation and data exchange. Prior art in this field includes various communication protocols and middleware solutions designed to facilitate communication among different devices and subsystems. However, traditional approaches may face limitations in terms of scalability, real-time performance, and resource efficiency, especially when deployed in resource-constrained environments such as embedded systems.
 
 In this context, the invention addresses the need for a lightweight, efficient, and scalable data distribution solution tailored specifically for MCU environments. By leveraging existing open-source libraries such as CycloneDDS, the invention aims to provide a robust and customizable DDS implementation optimized for embedded systems. This approach builds upon the foundation of prior art while introducing innovations to overcome the limitations associated with traditional communication protocols. Through this invention, MCU-based devices can achieve enhanced communication capabilities, enabling seamless integration into distributed systems and improving overall system performance and reliability.
+
+**中文**
+
 
 
 > 1.   **Problem to be solved; which prior art defects can be improved?** (As a logic sequence of the state of art, please point out the defeats of the state of art which has been overcome in the invention)
