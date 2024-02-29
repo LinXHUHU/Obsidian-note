@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25f96e64c24e3b16",
+        "id": "dfbd716571a723eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f01492f64678aba0",
+            "id": "3f22376560993528",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f01492f64678aba0",
+  "active": "3f22376560993528",
   "lastOpenFiles": [
+    "知识/cpp/深入设计模式.md",
     "Attachments/Pasted image 20240228180142.png",
     "Attachments/Pasted image 20240228174235.png",
     "Attachments/Pasted image 20240228170652.png",
@@ -184,9 +185,7 @@
     "Attachments/Pasted image 20240228160553.png",
     "Attachments/Pasted image 20240228160506.png",
     "Attachments/Pasted image 20240228160131.png",
-    "Attachments/Pasted image 20240228160107.png",
     "知识/ModSar/IR/思考面板.md",
-    "知识/cpp/深入设计模式.md",
     "知识/cpp",
     "知识/汽车网络/AutoSar/资料链接.md",
     "知识/ModSar/IR",
