@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0807977c6df64db",
+        "id": "33b5d060f4cfe550",
         "type": "tabs",
         "children": [
           {
-            "id": "d9b27c2fa5f3c0a8",
+            "id": "b9a1c6a109976f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/cpp/深入设计模式.md",
+                "file": "知识/ModSar/IR/思考面板.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/cpp/深入设计模式.md",
+                "file": "知识/ModSar/IR/思考面板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/cpp/深入设计模式.md",
+                "file": "知识/ModSar/IR/思考面板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/cpp/深入设计模式.md"
+                "file": "知识/ModSar/IR/思考面板.md"
               }
             }
           },
@@ -172,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9b27c2fa5f3c0a8",
+  "active": "b9a1c6a109976f75",
   "lastOpenFiles": [
-    "知识/Ubuntu/更改lunux默认启动内核版本.md",
     "知识/cpp/深入设计模式.md",
+    "Attachments/Pasted image 20240229130655.png",
+    "知识/Ubuntu/更改lunux默认启动内核版本.md",
     "Attachments/Pasted image 20240229093215.png",
     "Attachments/Pasted image 20240229092645.png",
     "Attachments/Pasted image 20240228180142.png",
@@ -185,7 +186,6 @@
     "Attachments/Pasted image 20240228162139.png",
     "Attachments/Pasted image 20240228161114.png",
     "Attachments/Pasted image 20240228161101.png",
-    "Attachments/Pasted image 20240228160553.png",
     "知识/ModSar/IR/思考面板.md",
     "知识/cpp",
     "知识/汽车网络/AutoSar/资料链接.md",
@@ -219,7 +219,6 @@
     "知识/Rust/Rust程序设计语言/1. 入门指南.md",
     "conflict-files-obsidian-git.md",
     "表3-1.md",
-    "知识/Go/项目：仿云存储/学习记录1.md",
     "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
