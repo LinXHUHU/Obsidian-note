@@ -37,18 +37,21 @@
 
 > **1.**   **What are the main improvements and advantage of the invention, especially compared to what is already known?**( After analyzing the defeats of the state of art, what purposes would you like to achieve via the invention. The advantage of the invention over the state of art should be described here.)
 
-The main improvements and advantages of the invention, compared to the existing state of the art, are as follows:
+  
+与现有技术相比，该发明的主要改进和优势如下：
 
-- **Enhanced Scalability**: Unlike traditional communication protocols and middleware solutions, which may struggle to scale effectively in MCU-based systems, the invention offers enhanced scalability. By leveraging the publish-subscribe communication model of DDS and optimizing network resource utilization, the invention accommodates dynamic network topologies and varying data exchange requirements more efficiently. This enables MCU-based systems to seamlessly integrate and communicate with a large number of interconnected devices, supporting the development of complex distributed applications with ease.
+- **增强的可扩展性**：与传统通信协议和中间件解决方案相比，在基于MCU的系统中，该发明提供了增强的可扩展性。通过利用DDS的发布-订阅通信模型并优化网络资源利用率，该发明更有效地适应动态的网络拓扑和不同的数据交换需求。这使得基于MCU的系统能够与大量互连设备无缝集成和通信，支持轻松开发复杂的分布式应用程序。
     
-- **Improved Real-time Performance**: One of the significant advantages of the invention is its improved real-time performance. Traditional communication protocols often fail to meet the stringent timing requirements of MCU-based applications, leading to delays and inconsistencies in data transmission. In contrast, the invention optimizes data transmission and processing algorithms, ensuring timely and predictable data delivery. This enables MCU-based systems to execute critical functionalities, such as sensor data acquisition and actuator control, with high precision and reliability, even in demanding real-time environments.
+- **改善的实时性能**：该发明的一个重要优势是其改善的实时性能。传统通信协议通常无法满足基于MCU的应用的严格时间要求，导致数据传输中的延迟和不一致性。相比之下，该发明优化了数据传输和处理算法，确保了及时和可预测的数据传递。这使得基于MCU的系统能够在要求严格的实时环境中以高精度和可靠性执行关键功能，如传感器数据采集和执行器控制。
     
-- **Reduced Resource Consumption**: The invention addresses the resource consumption limitations of traditional communication protocols and middleware solutions by minimizing resource overhead on MCU-based systems. Through efficient memory management, optimized processing algorithms, and streamlined communication protocols, the invention reduces memory footprint, processing power, and energy consumption. This allows MCU-based devices to operate more efficiently, even in resource-constrained environments, without compromising performance or reliability.
+- **降低的资源消耗**：该发明通过减少MCU系统上的资源开销来解决传统通信协议和中间件解决方案的资源消耗限制。通过高效的内存管理、优化的处理算法和简化的通信协议，该发明减少了内存占用、处理能力和能耗。这使得基于MCU的设备能够在资源受限的环境中更有效地运行，而不会影响性能或可靠性。
     
-- **Simplified Implementation and Maintenance**: Another key advantage of the invention is its simplified implementation and maintenance. Traditional communication protocols and middleware solutions often introduce unnecessary complexity and overhead, making them challenging to implement, maintain, and optimize in MCU-based systems. In contrast, the invention provides a lightweight, efficient, and customizable DDS implementation, leveraging the CycloneDDS open-source library. This streamlines the development, deployment, and maintenance of communication infrastructure in MCU-based systems, reducing development time and effort and improving overall system reliability.
+- **简化的实现和维护**：该发明的另一个关键优势是其简化的实现和维护。传统通信协议和中间件解决方案通常引入不必要的复杂性和开销，使其难以在基于MCU的系统中实现、维护和优化。相比之下，该发明提供了一个轻量级、高效和可定制的DDS实现，利用了CycloneDDS开源库。这简化了基于MCU的系统中通信基础设施的开发、部署和维护过程，减少了开发时间和工作量，并提高了系统的整体可靠性。
     
 
-In summary, the invention offers several significant improvements and advantages over the existing state of the art, including enhanced scalability, improved real-time performance, reduced resource consumption, and simplified implementation and maintenance. By addressing the limitations and shortcomings of traditional communication protocols and middleware solutions, the invention enables MCU-based systems to achieve higher levels of efficiency, reliability, and scalability, supporting the development of innovative and complex distributed applications in various domains.
+总之，该发明相对于现有技术具有几个显著的改进和优势，包括增强的可扩展性、改善的实时性能、降低的资源消耗以及简化的实现和维护。通过解决传统通信协议和中间件解决方案的限制和缺陷，该发明使基于MCU的系统能够实现更高水平的效率、可靠性和可扩展性，支持在各个领域开发创新和复杂的分布式应用程序。
+
+
 
 
 
