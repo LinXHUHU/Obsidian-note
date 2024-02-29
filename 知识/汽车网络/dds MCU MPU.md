@@ -1,0 +1,1 @@
+[【软件架构】【通信】DDS Benchmark - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/598859507#:~:text=%E8%A6%81%E5%9C%A8MCU%EF%BC%88%E5%8C%85%E6%8B%AC,%E5%88%B0%E6%88%90%E7%86%9F%E7%9A%84%E4%BA%A7%E5%93%81%E5%8C%96%E3%80%82)
