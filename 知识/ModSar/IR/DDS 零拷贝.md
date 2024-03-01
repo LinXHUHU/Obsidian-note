@@ -3,10 +3,9 @@
 
 > 1.   **Technical field of the invention and Prior art state**. (_Please give a brief introduction about the technical field of the invention._ The purpose is to let the readers of this document have a brief information about the technology)
 
-在现代汽车系统中，各种电子控制单元（ECU）之间的通信对于实现高效可靠的操作至关重要。传统的通信协议和中间件解决方案通常在满足汽车应用的实时性和带宽需求方面面临挑战。
+在现代汽车系统中，各种电子控制单元（ECU）之间的通信对于实现高效可靠的操作至关重要。随着Adas以及自动驾驶传统的通信协议和中间件解决方案通常在满足汽车应用的实时性和带宽需求方面面临挑战。
 
-在这一领域的先前技术包括用于汽车系统的各种通信协议和中间件解决方案.
-近年来，通信技术的进步导致了像Fast DDS（Data Distribution Service）这样的解决方案的出现，它提供了适用于汽车应用的高性能、实时数据分发。Fast DDS利用诸如零拷贝数据传输等技术来增强效率，并最小化ECU之间的通信延迟。这种方法解决了传统中间件解决方案的一些缺点，使其在汽车软件架构中尤其具有前景。
+近年来，通信技术的进步导致了像DDS（Data Distribution Service）这样的解决方案的出现，它提供了适用于汽车应用的高性能、实时的数据分发。DDS利用多种数据传输等技术来增强效率，利用实时数据分发最小化ECU之间的通信延迟，利用零拷贝技术加大片内进程之间通信的数据吞吐量。这种方法解决了传统中间件解决方案的一些缺点，使其在汽车软件架构中尤其具有前景。
 
 本发明的目的是通过将Fast DDS 中的零拷贝技术移植到ModSar 轻量级autosar框架中的组件通信（COM）模块，进一步改进现有的通信系统，从而利用其包括零拷贝数据传输、增强性能。本发明旨在为汽车系统在轻量级的基础上提供更高效可靠的通信解决方案，满足现代车辆架构的不断发展的需求。
 
