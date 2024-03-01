@@ -17,8 +17,6 @@
     
 3. **带宽效率**：一些先前的解决方案可能无法有效利用可用的网络带宽，导致潜在的拥塞和低效率，特别是在需要在ECU之间交换大量数据的场景中。
     
-4. **资源消耗**：某些中间件解决方案会很臃肿，很多功能实际来说并不需要，会带来较高的资源开销，包括CPU利用率和内存占用，这可能会影响整个系统的性能和响应能力。
-
 
 该发明通过将DDS零拷贝技术移植到modsar框架中的组件通信（COM）模块中，从而提供了几项改进来克服这些缺陷：
     
@@ -31,9 +29,7 @@
 
 > **1.**   **What are the main improvements and advantage of the invention, especially compared to what is already known?**( After analyzing the defeats of the state of art, what purposes would you like to achieve via the invention. The advantage of the invention over the state of art should be described here.)
 
-发明的主要改进和优势：
-
-该发明相对于现有汽车软件架构中的通信系统和中间件解决方案，引入了几项关键改进和优势，包括：
+该发明针对Modsar，引入了几项关键改进和优势，包括：
 
 1. **增强的性能**：通过将Fast DDS集成到AUTOSAR框架中的组件通信（COM）模块，该发明显著提高了通信性能。Fast DDS的高效数据分发机制，包括零拷贝数据传输，降低了延迟，提高了整个系统的响应能力。这确保了及时可预测的数据传递，对于诸如ADAS和自动驾驶等实时汽车应用至关重要。
     
