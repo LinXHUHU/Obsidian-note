@@ -1,6 +1,6 @@
 
 
-> 发明的技术领域，让读者有一个整体印象
+> 1.   **Technical field of the invention and Prior art state**. (_Please give a brief introduction about the technical field of the invention._ The purpose is to let the readers of this document have a brief information about the technology)
 
 该发明涉及通信系统中数据完整性保护机制的技术领域，优化端到端（End-to-End，E2E）验证过程。这项技术在各种行业中都具有高度相关性，其中数据传输的可靠性和安全性至关重要，包括汽车、航空航天、电信和工业自动化。
 
@@ -10,7 +10,8 @@
 
 然而，尽管取得了这些进展，但现有技术往往缺乏有效的解决方案来最小化端到端验证过程中的数据复制次数，从而导致性能和资源利用的不佳。这种局限性突显了对创新方法的需求，以改进通信系统中数据完整性保护机制的效率和有效性，而这正是本发明的目标所在。
 
-> 发明用来解决的问题
+
+> 1.   **Problem to be solved; which prior art defects can be improved?** (As a logic sequence of the state of art, please point out the defeats of the state of art which has been overcome in the invention)
 
 在End-to-End（E2E）数据完整性保护机制的先前技术中，特别是在汽车通信系统的背景下，要解决的问题是在验证过程中过多的数据复制所导致的低效率。传统的E2E实现机制通常涉及数据包在通过e2e模块的不同层或组件时的多次复制，这会增加处理开销并降低效率。
 
@@ -24,11 +25,7 @@
 
 
 
-> 发明或者改进的优点，尤其是跟现有的已知的方法的比较(也可以不比较)
-
-  
-  
-发明的主要改进和优势：
+> **1.**   **What are the main improvements and advantage of the invention, especially compared to what is already known?**( After analyzing the defeats of the state of art, what purposes would you like to achieve via the invention. The advantage of the invention over the state of art should be described here.)
 
 本发明引入的主要改进是在端到端（E2E）验证过程中减少数据复制操作，从而提高汽车通信系统中数据完整性保护机制的效率和性能。与先前技术相比，该发明通过实施零拷贝技术或优化数据处理流程，最小化了不同层或组件之间的冗余数据复制操作。
 
@@ -49,7 +46,7 @@
 
 
 
-> 方法或者发明的详细描述（架构，数据流图，表等）
+> **1.**   **Detailed description of structure and function of the invention together with alternative embodiments. Drawings (block diagram, mechanical structure, flow charts etc.) The description and the drawings are better to be consistent** **and syncretic.**
 
 方法架构：
 
@@ -58,7 +55,9 @@
 
 
 
-> 改方法在哪个项目或者产品中使用了？ 适用场景。
+>**1.**   **In which product or project will the invention be used and when will the invention be published?**
+
+
 
 项目
 MODSAR com模块
