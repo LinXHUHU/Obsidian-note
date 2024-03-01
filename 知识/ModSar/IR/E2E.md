@@ -40,7 +40,6 @@
 > **1.**   **Detailed description of structure and function of the invention together with alternative embodiments. Drawings (block diagram, mechanical structure, flow charts etc.) The description and the drawings are better to be consistent** **and syncretic.**
 
 方法架构：
-vsomeip中的e2e 架构？
 
 我们的架构
 
