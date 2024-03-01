@@ -3,10 +3,7 @@
 
 > 1.   **Technical field of the invention and Prior art state**. (_Please give a brief introduction about the technical field of the invention._ The purpose is to let the readers of this document have a brief information about the technology)
 
-
-发明的技术领域和先前技术状态：
-
-本发明涉及通信系统和数据分发技术，特别是在汽车软件架构的背景下。在现代汽车系统中，各种电子控制单元（ECU）之间的通信对于实现高效可靠的操作至关重要。传统的通信协议和中间件解决方案通常在满足汽车应用的实时性和带宽需求方面面临挑战。
+在现代汽车系统中，各种电子控制单元（ECU）之间的通信对于实现高效可靠的操作至关重要。传统的通信协议和中间件解决方案通常在满足汽车应用的实时性和带宽需求方面面临挑战。
 
 在这一领域的先前技术包括用于汽车系统的各种通信协议和中间件解决方案，例如CAN（Controller Area Network）、FlexRay、LIN（Local Interconnect Network）、Ethernet以及不同的中间件实现，如AUTOSAR（Automotive Open System Architecture）通信栈。虽然这些技术已被广泛采用，但它们在可扩展性、实时性能或带宽效率方面可能会遇到限制，特别是在具有不断增加的数据交换需求的复杂汽车系统中。
 
