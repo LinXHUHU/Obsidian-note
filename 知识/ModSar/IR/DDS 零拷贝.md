@@ -7,11 +7,9 @@
 
 近年来，通信技术的进步导致了像DDS（Data Distribution Service）这样的解决方案的出现，它提供了适用于汽车应用的高性能、实时的数据分发。DDS利用多种数据传输等技术来增强效率，利用实时数据分发最小化ECU之间的通信延迟，利用零拷贝技术加大片内进程之间通信的数据吞吐量。这种方法解决了传统中间件解决方案的一些缺点，使其在汽车软件架构中尤其具有前景。
 
-本发明的目的是通过将Fast DDS 中的零拷贝技术移植到ModSar 轻量级autosar框架中的组件通信（COM）模块，进一步改进现有的通信系统，从而利用其包括零拷贝数据传输、增强性能。本发明旨在为汽车系统在轻量级的基础上提供更高效可靠的通信解决方案，满足现代车辆架构的不断发展的需求。
-
+本发明的目的是在轻量级autosar解决方案MODAR中，在SOA架构的基础上实现零拷贝技术，进一步改进现有的MODSAR COM模块的通信数据传输性能、增强性能。本发明旨在为汽车系统在轻量级的基础上提供更高效可靠的通信解决方案，满足现代车辆架构的不断发展的需求。
 
 > 1.   **Problem to be solved; which prior art defects can be improved?** (As a logic sequence of the state of art, please point out the defeats of the state of art which has been overcome in the invention)
-
 
 该发明旨在解决汽车软件架构中使用的先前技术通信系统和中间件解决方案存在的多种限制和缺陷。这些缺陷包括：
 
