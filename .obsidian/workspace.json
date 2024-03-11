@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/ModSar/IR/多种通信协议的支持架构.md",
+                "file": "公/河南.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ModSar/IR/多种通信协议的支持架构.md",
+                "file": "公/河南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ModSar/IR/多种通信协议的支持架构.md",
+                "file": "公/河南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ModSar/IR/多种通信协议的支持架构.md"
+                "file": "公/河南.md"
               }
             }
           },
@@ -172,12 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f26a61833582390",
+  "active": "b9a1c6a109976f75",
   "lastOpenFiles": [
+    "知识/ModSar/IR/多种通信协议的支持架构.md",
+    "公/河南.md",
+    "公",
     "知识/ModSar/IR/MCU DDS.md",
     "知识/ModSar/IR/E2E.md",
     "知识/ModSar/IR/DDS 零拷贝.md",
-    "知识/ModSar/IR/多种通信协议的支持架构.md",
     "Attachments/Pasted image 20240301173910.png",
     "Attachments/Pasted image 20240301170436.png",
     "Attachments/Pasted image 20240301170416.png",
@@ -208,7 +210,6 @@
     "知识/Rust/开源项目学习/sled",
     "知识/Rust/开源项目学习/tantivy",
     "知识/Rust/开源项目学习/ripgrep",
-    "知识/Rust/开源项目学习/vector",
     "知识/Rust/Rust程序设计语言/9.错误处理/9.2 Result 与可恢复的错误.md",
     "知识/Rust/Rustling实践.md",
     "知识/Rust/Rust程序设计语言/5. 结构体.md",
