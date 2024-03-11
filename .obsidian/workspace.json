@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33b5d060f4cfe550",
+        "id": "47789ce01c5c34f8",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a1c6a109976f75",
+            "id": "44f99534bdd48ef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/ModSar/IR/E2E.md",
+                "file": "知识/TSW/名词解释.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ModSar/IR/E2E.md",
+                "file": "知识/TSW/名词解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ModSar/IR/E2E.md",
+                "file": "知识/TSW/名词解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ModSar/IR/E2E.md"
+                "file": "知识/TSW/名词解释.md"
               }
             }
           },
@@ -172,11 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f26a61833582390",
+  "active": "44f99534bdd48ef8",
   "lastOpenFiles": [
+    "知识/TSW/名词解释.md",
+    "知识/ModSar/IR/E2E.md",
     "知识/TSW",
     "知识/TSW.md",
-    "知识/ModSar/IR/E2E.md",
     "知识/ModSar/IR/README.md",
     "知识/ModSar/IR/MCU DDS.md",
     "公/河南.md",
@@ -212,7 +213,6 @@
     "知识/Rust/开源项目学习/sixtyfps",
     "知识/Rust/开源项目学习/sled",
     "知识/Rust/开源项目学习/tantivy",
-    "知识/Rust/开源项目学习/ripgrep",
     "知识/Rust/Rust程序设计语言/9.错误处理/9.2 Result 与可恢复的错误.md",
     "知识/Rust/Rustling实践.md",
     "知识/Rust/Rust程序设计语言/5. 结构体.md",
