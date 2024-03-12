@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/未命名.md",
+                "file": "知识/TSW/名词解释.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/未命名.md",
+                "file": "知识/TSW/名词解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/未命名.md",
+                "file": "知识/TSW/名词解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/未命名.md"
+                "file": "知识/TSW/名词解释.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "44f99534bdd48ef8",
   "lastOpenFiles": [
+    "日记/领悟.md",
     "知识/TSW/名词解释.md",
-    "日记/未命名.md",
     "日记/日记2023-11-21.md",
     "工作/报销/出差报销流程.md",
     "知识/TSW/问题.md",
