@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/TSW/名词解释.md",
+                "file": "日记/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/TSW/名词解释.md",
+                "file": "日记/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/TSW/名词解释.md",
+                "file": "日记/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/TSW/名词解释.md"
+                "file": "日记/未命名.md"
               }
             }
           },
@@ -175,8 +174,10 @@
   },
   "active": "44f99534bdd48ef8",
   "lastOpenFiles": [
-    "工作/报销/出差报销流程.md",
     "知识/TSW/名词解释.md",
+    "日记/未命名.md",
+    "日记/日记2023-11-21.md",
+    "工作/报销/出差报销流程.md",
     "知识/TSW/问题.md",
     "知识/TSW/Drawing 2024-03-11 17.42.56.excalidraw.md",
     "知识/TSW/未命名.canvas",
@@ -220,8 +221,6 @@
     "知识/Rust/开源项目学习/tantivy",
     "知识/Rust/Rust程序设计语言/9.错误处理/9.2 Result 与可恢复的错误.md",
     "知识/Rust/Rustling实践.md",
-    "知识/Rust/Rust程序设计语言/5. 结构体.md",
-    "知识/Rust/Rust程序设计语言/7.包 crate 模块.md",
     "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
