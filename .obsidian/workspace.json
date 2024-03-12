@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "de5569ca608174be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识/TSW/名词解释.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "报销",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,11 +173,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de5569ca608174be",
+  "active": "44f99534bdd48ef8",
   "lastOpenFiles": [
+    "工作/报销/出差报销流程.md",
+    "知识/TSW/名词解释.md",
     "知识/TSW/问题.md",
     "知识/TSW/Drawing 2024-03-11 17.42.56.excalidraw.md",
-    "知识/TSW/名词解释.md",
     "知识/TSW/未命名.canvas",
     "知识/ModSar/IR/E2E.md",
     "知识/TSW",
@@ -233,7 +222,6 @@
     "知识/Rust/Rustling实践.md",
     "知识/Rust/Rust程序设计语言/5. 结构体.md",
     "知识/Rust/Rust程序设计语言/7.包 crate 模块.md",
-    "知识/Rust/Rust程序设计语言/8. 常见的集合.md",
     "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
