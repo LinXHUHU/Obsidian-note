@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47789ce01c5c34f8",
+        "id": "3ab667d31cb87adf",
         "type": "tabs",
         "children": [
           {
-            "id": "44f99534bdd48ef8",
+            "id": "d796e888e1749a27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识/TSW/名词解释.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -172,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44f99534bdd48ef8",
+  "active": "d796e888e1749a27",
   "lastOpenFiles": [
     "知识/TSW/问题.md",
     "知识/cpp/深入设计模式.md",
