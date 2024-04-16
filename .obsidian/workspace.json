@@ -23,9 +23,11 @@
             "id": "4c05da806b0252fe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "工作/报销/出差报销流程.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ChatGpt/API key.md",
+                "file": "工作/报销/出差报销流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ChatGpt/API key.md",
+                "file": "工作/报销/出差报销流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ChatGpt/API key.md"
+                "file": "工作/报销/出差报销流程.md"
               }
             }
           },
