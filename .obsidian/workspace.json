@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "280eb8a4a0d745e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c05da806b0252fe",
+  "active": "280eb8a4a0d745e2",
   "lastOpenFiles": [
     "知识/ChatGpt/API key.md",
     "知识/ChatGpt",
