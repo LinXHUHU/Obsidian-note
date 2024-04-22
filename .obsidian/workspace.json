@@ -35,9 +35,11 @@
             "id": "280eb8a4a0d745e2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "工作/报销/出差报销流程.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -197,6 +199,7 @@
   },
   "active": "280eb8a4a0d745e2",
   "lastOpenFiles": [
+    "工作/报销/报销模板.pdf",
     "知识/ChatGpt/API key.md",
     "知识/ChatGpt",
     "知识/TSW/问题.md",
@@ -243,7 +246,6 @@
     "知识/Rust/Rust程序设计语言/6. 枚举和模式匹配.md",
     "知识/Rust/开源项目学习/sixtyfps",
     "知识/Rust/开源项目学习/sled",
-    "知识/Rust/Rust程序设计语言/9.错误处理/9.2 Result 与可恢复的错误.md",
     "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
