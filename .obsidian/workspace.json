@@ -35,9 +35,11 @@
             "id": "280eb8a4a0d745e2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "工作/报销/报销模板.pdf"
+                "file": "知识/ChatGpt/Azure OpenAi.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/报销/报销模板.pdf",
+                "file": "知识/ChatGpt/Azure OpenAi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/报销/报销模板.pdf",
+                "file": "知识/ChatGpt/Azure OpenAi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/报销/报销模板.pdf"
+                "file": "知识/ChatGpt/Azure OpenAi.md"
               }
             }
           },
@@ -197,8 +199,9 @@
   },
   "active": "280eb8a4a0d745e2",
   "lastOpenFiles": [
-    "工作/报销/出差报销流程.md",
     "工作/报销/报销模板.pdf",
+    "知识/ChatGpt/Azure OpenAi.md",
+    "工作/报销/出差报销流程.md",
     "日记/领悟.md",
     "知识/Repo 使用方法.md",
     "知识/ChatGpt/API key.md",
@@ -240,7 +243,6 @@
     "知识/汽车网络",
     "Excalidraw/SD报文结构分析.excalidraw.md",
     "知识/Ubuntu/系统服务，systemd service.md",
-    "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
     "知识/Rust/开源项目学习/ChatGpt",
     "知识/Rust/开源项目学习/sixtyfps",
     "任务看板.canvas",
