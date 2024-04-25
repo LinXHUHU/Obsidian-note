@@ -35,11 +35,9 @@
             "id": "280eb8a4a0d745e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "知识/Repo 使用方法.md",
-                "mode": "source",
-                "source": false
+                "file": "工作/报销/报销模板.pdf"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Repo 使用方法.md",
+                "file": "工作/报销/报销模板.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Repo 使用方法.md",
+                "file": "工作/报销/报销模板.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Repo 使用方法.md"
+                "file": "工作/报销/报销模板.pdf"
               }
             }
           },
@@ -201,13 +199,14 @@
   "lastOpenFiles": [
     "工作/报销/出差报销流程.md",
     "工作/报销/报销模板.pdf",
+    "日记/领悟.md",
+    "知识/Repo 使用方法.md",
     "知识/ChatGpt/API key.md",
     "知识/ChatGpt",
     "知识/TSW/问题.md",
     "知识/cpp/深入设计模式.md",
     "Attachments/Pasted image 20240312132448.png",
     "知识/TSW/名词解释.md",
-    "日记/领悟.md",
     "日记/日记2023-11-21.md",
     "知识/TSW/Drawing 2024-03-11 17.42.56.excalidraw.md",
     "知识/TSW/未命名.canvas",
@@ -243,7 +242,6 @@
     "知识/Ubuntu/系统服务，systemd service.md",
     "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
     "知识/Rust/开源项目学习/ChatGpt",
-    "知识/Rust/Rust程序设计语言/6. 枚举和模式匹配.md",
     "知识/Rust/开源项目学习/sixtyfps",
     "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
