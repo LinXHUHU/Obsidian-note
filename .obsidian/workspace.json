@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md",
+                "file": "知识/ModSar/IR/E2E.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md",
+                "file": "知识/ModSar/IR/E2E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md",
+                "file": "知识/ModSar/IR/E2E.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md"
+                "file": "知识/ModSar/IR/E2E.md"
               }
             }
           },
@@ -199,8 +199,9 @@
   },
   "active": "280eb8a4a0d745e2",
   "lastOpenFiles": [
-    "工作/报销/报销模板.pdf",
+    "知识/ModSar/IR/README.md",
     "知识/ChatGpt/Azure OpenAi.md",
+    "工作/报销/报销模板.pdf",
     "工作/报销/出差报销流程.md",
     "日记/领悟.md",
     "知识/Repo 使用方法.md",
@@ -216,7 +217,6 @@
     "知识/ModSar/IR/E2E.md",
     "知识/TSW",
     "知识/TSW.md",
-    "知识/ModSar/IR/README.md",
     "知识/ModSar/IR/MCU DDS.md",
     "公/河南.md",
     "公/西安.md",
