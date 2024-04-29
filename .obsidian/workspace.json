@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md",
+                "file": "工作/报销/出差报销流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md",
+                "file": "工作/报销/出差报销流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md",
+                "file": "工作/报销/出差报销流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ChatGpt/Azure OpenAi.md"
+                "file": "工作/报销/出差报销流程.md"
               }
             }
           },
@@ -186,11 +186,11 @@
   },
   "active": "d796e888e1749a27",
   "lastOpenFiles": [
+    "知识/ChatGpt/Azure OpenAi.md",
     "知识/ChatGpt/API key.md",
     "工作/报销/出差报销流程.md",
     "知识/ModSar/IR/E2E.md",
     "知识/ModSar/IR/README.md",
-    "知识/ChatGpt/Azure OpenAi.md",
     "工作/报销/报销模板.pdf",
     "日记/领悟.md",
     "知识/Repo 使用方法.md",
