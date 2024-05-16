@@ -9,3 +9,12 @@ rba_osshell_schedule 迁移
 
 lin_SIM 口添加 
 
+
+
+
+|  Data identification  |                                  |                                  |                                  |                                  |
+| :-------------------: | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+|      Identifier       | DID Name                         | Parameter Name                   | Software label                   |                                  |
+|         20A8          | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor |
+|         20A8          | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor |
+|         20A8          | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor | Driver Occupant Detection Sensor |
