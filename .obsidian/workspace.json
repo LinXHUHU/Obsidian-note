@@ -11,8 +11,12 @@
             "id": "5b7c838b8e57ecbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知识/ChatGpt/大模型提示工程学习.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/ChatGpt/大模型提示工程学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识/ChatGpt/大模型提示工程学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识/ChatGpt/大模型提示工程学习.md"
+              }
             }
           },
           {
@@ -166,6 +174,8 @@
   },
   "active": "5b7c838b8e57ecbd",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240517135958.png",
+    "知识/ChatGpt/大模型提示工程学习.md",
     "知识/ModSar/IR/E2E.md",
     "工作/报销/出差报销流程.md",
     "base 迁移工作量评估.md",
@@ -209,8 +219,6 @@
     "知识/汽车网络/AutoSar",
     "知识/Rust/开源项目学习/所有项目说明.md",
     "知识/汽车网络",
-    "Excalidraw/SD报文结构分析.excalidraw.md",
-    "知识/Ubuntu/系统服务，systemd service.md",
     "知识/Rust/开源项目学习/ChatGpt",
     "知识/Rust/开源项目学习/sixtyfps",
     "任务看板.canvas",
