@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,16 +174,16 @@
   },
   "active": "5b7c838b8e57ecbd",
   "lastOpenFiles": [
+    "知识/Ubuntu/Vbox虚拟机问题.md",
+    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/简单的网络连接.md",
     "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
-    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/Git命令学习.md",
     "知识/Ubuntu/压缩相关.md",
     "知识/Ubuntu/更改lunux默认启动内核版本.md",
     "知识/Ubuntu/系统服务，systemd service.md",
     "知识/Ubuntu/VScode安装.md",
     "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
-    "知识/Ubuntu/Vbox虚拟机问题.md",
     "知识/ChatGpt/大模型提示工程学习.md",
     "未命名 1.md",
     "未命名.md",
