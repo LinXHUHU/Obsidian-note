@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/ChatGpt/大模型提示工程学习.md",
+                "file": "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "报销",
+                "query": "终端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/ChatGpt/大模型提示工程学习.md",
+                "file": "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/ChatGpt/大模型提示工程学习.md",
+                "file": "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/ChatGpt/大模型提示工程学习.md"
+                "file": "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md"
               }
             }
           },
@@ -174,8 +175,17 @@
   },
   "active": "5b7c838b8e57ecbd",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
+    "知识/Ubuntu/Git命令学习.md",
+    "知识/Ubuntu/压缩相关.md",
+    "知识/Ubuntu/更改lunux默认启动内核版本.md",
+    "知识/Ubuntu/简单的网络连接.md",
+    "知识/Ubuntu/系统服务，systemd service.md",
+    "知识/Ubuntu/VScode安装.md",
+    "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
+    "知识/Ubuntu/Vbox虚拟机问题.md",
     "知识/ChatGpt/大模型提示工程学习.md",
+    "未命名 1.md",
     "未命名.md",
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
@@ -198,24 +208,15 @@
     "知识/TSW/未命名.canvas",
     "知识/TSW",
     "知识/TSW.md",
-    "知识/ModSar/IR/MCU DDS.md",
-    "公/河南.md",
-    "公/西安.md",
-    "知识/ModSar/IR/DDS 零拷贝.md",
-    "知识/ModSar/IR/多种通信协议的支持架构.md",
     "公",
     "Attachments/Pasted image 20240301173910.png",
     "Attachments/Pasted image 20240301170436.png",
     "Attachments/Pasted image 20240301170416.png",
-    "知识/汽车网络/dds MCU MPU.md",
-    "知识/汽车网络/汽车是怎么联网的？.md",
     "Attachments/Pasted image 20240229172232.png",
     "Attachments/Pasted image 20240229170729.png",
     "Attachments/Pasted image 20240229163954.png",
     "Attachments/Pasted image 20240229161513.png",
-    "知识/Ubuntu/更改lunux默认启动内核版本.md",
     "知识/cpp",
-    "知识/汽车网络/AutoSar/资料链接.md",
     "知识/ModSar/IR",
     "知识/汽车网络/AutoSar",
     "知识/汽车网络",
