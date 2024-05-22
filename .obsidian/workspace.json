@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8d7377dcfe83ca",
+        "id": "971ab0bc05bfd9ec",
         "type": "tabs",
         "children": [
           {
-            "id": "5b7c838b8e57ecbd",
+            "id": "00e9fd5584772a36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识/Ubuntu/普通用户访问共享文件夹.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "共享文件",
+                "query": "中文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Ubuntu/普通用户访问共享文件夹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Ubuntu/普通用户访问共享文件夹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知识/Ubuntu/普通用户访问共享文件夹.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,15 +165,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b7c838b8e57ecbd",
+  "active": "00e9fd5584772a36",
   "lastOpenFiles": [
+    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
+    "知识/Ubuntu/普通用户访问共享文件夹.md",
     "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
     "知识/Ubuntu/更改lunux默认启动内核版本.md",
     "知识/Ubuntu/简单的网络连接.md",
-    "知识/Ubuntu/普通用户访问共享文件夹.md",
     "知识/Ubuntu/系统服务，systemd service.md",
     "知识/Ubuntu/压缩相关.md",
-    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/Vbox虚拟机问题.md",
     "知识/Ubuntu/Git命令学习.md",
     "知识/Ubuntu/VScode安装.md",

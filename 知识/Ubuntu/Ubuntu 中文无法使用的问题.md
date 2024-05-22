@@ -1,4 +1,11 @@
 
+22.04 安装中文输入法
+
+https://www.cnblogs.com/personblog/p/17520243.html
+
+
+
+
 好像主要是有那位 ficx出问题了，有bug
 
 
