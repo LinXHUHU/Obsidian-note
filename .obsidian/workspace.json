@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中文",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00e9fd5584772a36",
+  "active": "adff604a49a5367f",
   "lastOpenFiles": [
     "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/普通用户访问共享文件夹.md",
