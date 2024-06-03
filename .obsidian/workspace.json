@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZCU DV项目GPTcode.md",
+                "file": "知识/Ubuntu/Vbox虚拟机问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZCU DV项目GPTcode.md",
+                "file": "知识/Ubuntu/Vbox虚拟机问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZCU DV项目GPTcode.md",
+                "file": "知识/Ubuntu/Vbox虚拟机问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZCU DV项目GPTcode.md"
+                "file": "知识/Ubuntu/Vbox虚拟机问题.md"
               }
             }
           },
@@ -173,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adff604a49a5367f",
+  "active": "00e9fd5584772a36",
   "lastOpenFiles": [
+    "ZCU DV项目GPTcode.md",
     "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/普通用户访问共享文件夹.md",
     "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
@@ -188,7 +188,6 @@
     "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
     "知识/ChatGpt/大模型提示工程学习.md",
     "未命名 1.md",
-    "ZCU DV项目GPTcode.md",
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
     "知识/ModSar/IR/E2E.md",
