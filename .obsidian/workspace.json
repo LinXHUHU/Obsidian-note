@@ -11,8 +11,12 @@
             "id": "872f7ee3b3d8731a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知识/Ubuntu/快速掌握 UFW 防火墙命令.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "u'f'w",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/Ubuntu/快速掌握 UFW 防火墙命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识/Ubuntu/快速掌握 UFW 防火墙命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识/Ubuntu/快速掌握 UFW 防火墙命令.md"
+              }
             }
           },
           {
@@ -165,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adff604a49a5367f",
+  "active": "872f7ee3b3d8731a",
   "lastOpenFiles": [
+    "知识/Ubuntu/快速掌握 UFW 防火墙命令.md",
     "Excalidraw/SD报文结构分析.excalidraw.md",
     "知识/Ubuntu/更改lunux默认启动内核版本.md",
     "知识/Ubuntu/简单的网络连接.md",
@@ -198,7 +206,6 @@
     "工作/报销/报销模板.pdf",
     "日记/领悟.md",
     "知识/ChatGpt",
-    "知识/TSW/问题.md",
     "Attachments/Pasted image 20240312132448.png",
     "知识/TSW/未命名.canvas",
     "知识/TSW",
