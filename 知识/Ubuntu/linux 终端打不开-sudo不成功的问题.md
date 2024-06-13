@@ -116,6 +116,7 @@ sudo unzip /tmp/v2ray-linux-64.zip -d /usr/local/v2ray-core
 # 所以如果有必要可以拷贝一份dat文件到/usr/local/share/v2ray/  
 sudo mkdir -p /usr/local/share/v2ray/  
 sudo cp /usr/local/v2ray-core/*dat /usr/local/share/v2ray/
+sudo cp /usr/local/v2ray-core/*dat /usr/share/v2ray/
 ```
 
 
@@ -131,4 +132,14 @@ V2RAYA_V2RAY_CONFDIR=/usr/local/v2ray-core
 snap install v2raya
 
 reboot
+
+
+进入魔界官网 [魔戒.net (mojie.app)](https://mojie.app/dashboard)
+
+账号 1152744220@qq.com
+password: Qq@18251893918
+
+获取订阅地址
+
+配置v2ray 
 
