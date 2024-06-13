@@ -58,4 +58,23 @@ su lxh
 
 
 ---
-# 调整
+# 安装 增强功能 调整窗口大小
+
+device-> 安装增强功能  
+
+界面出现 run
+
+view -》 resize    adjust  结束
+
+
+---
+# 共享文件夹配置
+
+---
+# 安装中文输入法
+
+https://www.cnblogs.com/personblog/p/17520243.html
+---
+
+# 安装梯子
+

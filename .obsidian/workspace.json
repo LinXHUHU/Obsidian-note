@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "打不开",
+                "query": "中文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,8 +173,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f26a61833582390",
+  "active": "72cce7c0a60d1d0f",
   "lastOpenFiles": [
+    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
+    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
     "知识/MODSAR交叉编译—docker/Modsar Docker 2.0使用说明.md",
     "知识/Ubuntu/简单的网络连接.md",
@@ -184,7 +187,6 @@
     "知识/Ubuntu/系统服务，systemd service.md",
     "知识/Ubuntu/压缩相关.md",
     "知识/Ubuntu/Git命令学习.md",
-    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/Vbox虚拟机问题.md",
     "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
     "知识/Ubuntu/VScode安装.md",
@@ -196,7 +198,6 @@
     "ZCU DV项目GPTcode.md",
     "知识/Repo 使用方法.md",
     "Attachments/Pasted image 20240613112746.png",
-    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/ChatGpt/大模型提示工程学习.md",
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
