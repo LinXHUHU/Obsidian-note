@@ -120,10 +120,15 @@ sudo mv /usr/local/v2ray-core/*dat /usr/local/share/v2ray/
 
 
 ```
-# vi /etc/default/v2raya  
+# sudo vim /etc/default/v2raya  
   
 # 将V2rayA和v2ray-core关联起来  
 # 添加配置两行配置  
 V2RAYA_V2RAY_BIN=/usr/local/v2ray-core/v2ray  
 V2RAYA_V2RAY_CONFDIR=/usr/local/v2ray-core
 ```
+
+snap install v2raya
+
+reboot
+
