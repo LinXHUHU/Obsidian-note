@@ -115,7 +115,7 @@ sudo unzip /tmp/v2ray-linux-64.zip -d /usr/local/v2ray-core
 # 有用户反馈在kali系统系统中，实际使用的geoip.dat和geosite.dat位于/usr/local/share/v2ray/  
 # 所以如果有必要可以拷贝一份dat文件到/usr/local/share/v2ray/  
 sudo mkdir -p /usr/local/share/v2ray/  
-sudo mv /usr/local/v2ray-core/*dat /usr/local/share/v2ray/
+sudo cp /usr/local/v2ray-core/*dat /usr/local/share/v2ray/
 ```
 
 
