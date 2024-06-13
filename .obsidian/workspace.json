@@ -11,14 +11,11 @@
             "id": "1c9ee6a3350e910c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "任务看板.canvas",
-                "viewState": {
-                  "x": 590,
-                  "y": 793.5,
-                  "zoom": -2.719562242797953
-                }
+                "file": "知识/Ubuntu/更改lunux默认启动内核版本.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "任务看板.canvas",
+                "file": "知识/Ubuntu/更改lunux默认启动内核版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "任务看板.canvas",
+                "file": "知识/Ubuntu/更改lunux默认启动内核版本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任务看板.canvas"
+                "file": "知识/Ubuntu/更改lunux默认启动内核版本.md"
               }
             }
           },
@@ -175,26 +173,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c9ee6a3350e910c",
+  "active": "adff604a49a5367f",
   "lastOpenFiles": [
+    "知识/Ubuntu/简单的网络连接.md",
+    "知识/Ubuntu/普通用户访问共享文件夹.md",
+    "知识/Ubuntu/系统服务，systemd service.md",
+    "知识/Ubuntu/压缩相关.md",
+    "知识/Ubuntu/Git命令学习.md",
+    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
+    "知识/Ubuntu/Vbox虚拟机问题.md",
+    "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
+    "知识/Ubuntu/VScode安装.md",
+    "知识/Ubuntu/yacto build.md",
+    "任务看板.canvas",
     "未命名 1.md",
     "v2ra.md",
     "base 迁移工作量评估.md",
     "ZCU DV项目GPTcode.md",
     "知识/Repo 使用方法.md",
-    "知识/Ubuntu/yacto build.md",
     "Attachments/Pasted image 20240613112746.png",
-    "知识/Ubuntu/Vbox虚拟机问题.md",
-    "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
-    "知识/Ubuntu/普通用户访问共享文件夹.md",
     "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
     "知识/Ubuntu/更改lunux默认启动内核版本.md",
-    "知识/Ubuntu/简单的网络连接.md",
-    "知识/Ubuntu/系统服务，systemd service.md",
-    "知识/Ubuntu/压缩相关.md",
-    "知识/Ubuntu/Git命令学习.md",
-    "知识/Ubuntu/VScode安装.md",
-    "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
     "知识/ChatGpt/大模型提示工程学习.md",
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
@@ -207,7 +206,6 @@
     "日记/领悟.md",
     "知识/ChatGpt",
     "知识/TSW/问题.md",
-    "知识/cpp/深入设计模式.md",
     "Attachments/Pasted image 20240312132448.png",
     "知识/TSW/未命名.canvas",
     "知识/TSW",
@@ -224,7 +222,6 @@
     "知识/汽车网络",
     "知识/Rust/开源项目学习/ChatGpt",
     "知识/Rust/开源项目学习/sixtyfps",
-    "任务看板.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
