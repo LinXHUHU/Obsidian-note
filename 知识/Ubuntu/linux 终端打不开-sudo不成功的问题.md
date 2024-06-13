@@ -33,7 +33,7 @@ chmod u+w /etc/sudoers
 3. 执行`vim`命令，编辑 `/etc/sudoers` 文件：
 
 ```bash
-vim
+vi  /etc/sudoers
 ```
 
 4. 按 `i` 键进入编辑模式，在 `root ALL=(ALL) ALL` 的下一行添加代码： `lxh ALL=(ALL) ALL`
@@ -55,3 +55,7 @@ su lxh
 
 8. 测试该用户的权限，例如使用命令 `sudo ls` 来查看当前目录。
 
+
+
+---
+# 调整
