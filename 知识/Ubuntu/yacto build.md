@@ -5,4 +5,7 @@
 
 2、在运行source脚本的时候遇到了apt-get install python失败的问题。
 	因为在新版的apt源中不包含老版本python 应该使用python3 或更新的
-	在脚本路径中，
+	在脚本路径中，/home/lxh/workspace/yocto/sources/meta-alb/scripts/host-prepare-ubuntu-mint-debian.sh  中去掉python的安装
+	![[Pasted image 20240613112746.png]]
+
+3、
