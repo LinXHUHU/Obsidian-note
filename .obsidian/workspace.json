@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中文",
+                "query": "共享文件夹",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72cce7c0a60d1d0f",
+  "active": "adff604a49a5367f",
   "lastOpenFiles": [
     "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
