@@ -70,6 +70,14 @@ view -》 resize    adjust  结束
 ---
 # 共享文件夹配置
 
+sudo usermod -aG vboxsf lxh 添加用户到组
+
+sudo reboot
+
+df -h 确保正确挂在
+
+groups lxh  确保在组内
+
 ---
 # 安装中文输入法
 
@@ -91,3 +99,31 @@ ibus-setup
 
 # 安装梯子
 
+[https://ghproxy.net/https://github.com/v2fly/v2ray-core/releases/download/v5.13.0/v2ray-linux-64.zip](https://ghproxy.net/https://github.com/v2fly/v2ray-core/releases/download/v5.13.0/v2ray-linux-64.zip)
+
+cp /media/sf_shared/v2ray-linux-64.zip /tmp/
+
+```
+## 下载v2ray-core，并保存到tmp目录  
+wget -O /tmp/v2ray-linux-64.zip https://ghproxy.net/https://github.com/v2fly/v2ray-core/releases/download/v5.13.0/v2ray-linux-64.zip  
+## 或者  
+# 如果操作系统上安装了curl, 可以使用curl下载  
+curl --output /tmp/v2ray-linux-64.zip https://ghproxy.net/https://github.com/v2fly/v2ray-core/releases/download/v5.13.0/v2ray-linux-64.zip  
+# 将其解压到/usr/local/v2ray-core， 需要root权限  
+sudo unzip /tmp/v2ray-linux-64.zip -d /usr/local/v2ray-core  
+  
+# 有用户反馈在kali系统系统中，实际使用的geoip.dat和geosite.dat位于/usr/local/share/v2ray/  
+# 所以如果有必要可以拷贝一份dat文件到/usr/local/share/v2ray/  
+sudo mkdir -p /usr/local/share/v2ray/  
+sudo mv /usr/local/v2ray-core/*dat /usr/local/share/v2ray/
+```
+
+
+```
+# vi /etc/default/v2raya  
+  
+# 将V2rayA和v2ray-core关联起来  
+# 添加配置两行配置  
+V2RAYA_V2RAY_BIN=/usr/local/v2ray-core/v2ray  
+V2RAYA_V2RAY_CONFDIR=/usr/local/v2ray-core
+```
