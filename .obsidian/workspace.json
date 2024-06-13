@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "971ab0bc05bfd9ec",
+        "id": "956b5a567f6da0b6",
         "type": "tabs",
         "children": [
           {
-            "id": "00e9fd5584772a36",
+            "id": "1c9ee6a3350e910c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md",
-                "mode": "source",
-                "source": false
+                "file": "任务看板.canvas",
+                "viewState": {
+                  "x": 590,
+                  "y": 793.5,
+                  "zoom": -2.719562242797953
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md",
+                "file": "任务看板.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md",
+                "file": "任务看板.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md"
+                "file": "任务看板.canvas"
               }
             }
           },
@@ -172,12 +175,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00e9fd5584772a36",
+  "active": "1c9ee6a3350e910c",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "v2ra.md",
+    "base 迁移工作量评估.md",
+    "ZCU DV项目GPTcode.md",
+    "知识/Repo 使用方法.md",
+    "知识/Ubuntu/yacto build.md",
     "Attachments/Pasted image 20240613112746.png",
     "知识/Ubuntu/Vbox虚拟机问题.md",
-    "知识/Ubuntu/yacto build.md",
-    "ZCU DV项目GPTcode.md",
     "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Ubuntu/普通用户访问共享文件夹.md",
     "工作/项目/ModSAR/linux 终端打不开-sudo不成功的问题.md",
@@ -189,18 +196,15 @@
     "知识/Ubuntu/VScode安装.md",
     "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
     "知识/ChatGpt/大模型提示工程学习.md",
-    "未命名 1.md",
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
     "知识/ModSar/IR/E2E.md",
     "工作/报销/出差报销流程.md",
-    "base 迁移工作量评估.md",
     "知识/ChatGpt/Azure OpenAi.md",
     "知识/ChatGpt/API key.md",
     "知识/ModSar/IR/README.md",
     "工作/报销/报销模板.pdf",
     "日记/领悟.md",
-    "知识/Repo 使用方法.md",
     "知识/ChatGpt",
     "知识/TSW/问题.md",
     "知识/cpp/深入设计模式.md",
@@ -214,7 +218,6 @@
     "Attachments/Pasted image 20240229172232.png",
     "Attachments/Pasted image 20240229170729.png",
     "Attachments/Pasted image 20240229163954.png",
-    "Attachments/Pasted image 20240229161513.png",
     "知识/cpp",
     "知识/ModSar/IR",
     "知识/汽车网络/AutoSar",
