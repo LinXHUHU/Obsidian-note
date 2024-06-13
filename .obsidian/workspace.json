@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "设置",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "872f7ee3b3d8731a",
+  "active": "adff604a49a5367f",
   "lastOpenFiles": [
     "知识/Ubuntu/快速掌握 UFW 防火墙命令.md",
     "Excalidraw/SD报文结构分析.excalidraw.md",
