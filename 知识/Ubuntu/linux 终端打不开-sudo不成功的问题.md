@@ -74,6 +74,12 @@ view -》 resize    adjust  结束
 # 安装中文输入法
 
 https://www.cnblogs.com/personblog/p/17520243.html
+
+sudo apt-get install ibus-pinyin
+
+地区语言- input source 加入中文简体繁体 -》 全局应用
+
+
 ---
 
 # 安装梯子
