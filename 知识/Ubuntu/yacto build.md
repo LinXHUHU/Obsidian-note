@@ -22,4 +22,5 @@
 
 OP-TEE-Enabled： 可信运行环境，在嵌入式中保护数据的软件
 
-Xen Hypervisor 是一套直接运行在计算机硬件之上的软件层，它代替操作系统，从而允许计算机硬件能同时运行多个客户操作系统
+Xen Hypervisor 是一套直接运行在计算机硬件之上的软件层，它代替操作系统，从而允许计算机硬件能同时运行多个客户操作系统[Xen虚拟化基本原理详解 - stardsd - 博客园 (cnblogs.com)](https://www.cnblogs.com/sddai/p/5931201.html)
+
