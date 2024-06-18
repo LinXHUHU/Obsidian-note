@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+                "file": "知识/Ubuntu/yacto build.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+                "file": "知识/Ubuntu/yacto build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+                "file": "知识/Ubuntu/yacto build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md"
+                "file": "知识/Ubuntu/yacto build.md"
               }
             }
           },
@@ -175,10 +174,10 @@
   },
   "active": "72cce7c0a60d1d0f",
   "lastOpenFiles": [
+    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "Attachments/Pasted image 20240613181118.png",
     "Attachments/Pasted image 20240613181059.png",
     "知识/Ubuntu/普通用户访问共享文件夹.md",
-    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
     "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
     "知识/MODSAR交叉编译—docker/Modsar Docker 2.0使用说明.md",
@@ -216,7 +215,6 @@
     "Attachments/Pasted image 20240301170436.png",
     "Attachments/Pasted image 20240301170416.png",
     "Attachments/Pasted image 20240229172232.png",
-    "Attachments/Pasted image 20240229170729.png",
     "知识/cpp",
     "知识/ModSar/IR",
     "知识/汽车网络/AutoSar",
