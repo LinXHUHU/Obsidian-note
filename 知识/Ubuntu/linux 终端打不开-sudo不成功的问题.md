@@ -142,4 +142,6 @@ password: Qq@18251893918
 获取订阅地址
 
 配置v2ray 
+![[Pasted image 20240613181059.png]]
+![[Pasted image 20240613181118.png]]
 
