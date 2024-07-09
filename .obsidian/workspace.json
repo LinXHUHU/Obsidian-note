@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "142bdac73db9cbc0",
+        "id": "3a9813f271e041a2",
         "type": "tabs",
         "children": [
           {
-            "id": "72cce7c0a60d1d0f",
+            "id": "b74db5eec5411121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Ubuntu/yacto build.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -172,8 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72cce7c0a60d1d0f",
+  "active": "b74db5eec5411121",
   "lastOpenFiles": [
+    "未命名.md",
+    "读书笔记/认知.md",
+    "知识/Ubuntu/yacto build.md",
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "Attachments/Pasted image 20240613181118.png",
     "Attachments/Pasted image 20240613181059.png",
@@ -191,7 +194,6 @@
     "知识/Ubuntu/Vbox虚拟机问题.md",
     "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
     "知识/Ubuntu/VScode安装.md",
-    "知识/Ubuntu/yacto build.md",
     "任务看板.canvas",
     "未命名 1.md",
     "v2ra.md",
@@ -204,7 +206,6 @@
     "Attachments/Pasted image 20240517135958.png",
     "知识/ModSar/IR/E2E.md",
     "工作/报销/出差报销流程.md",
-    "知识/ChatGpt/Azure OpenAi.md",
     "工作/报销/报销模板.pdf",
     "知识/ChatGpt",
     "Attachments/Pasted image 20240312132448.png",
