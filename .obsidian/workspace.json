@@ -11,8 +11,12 @@
             "id": "f664e9976503c7a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "共享文件夹",
+                "query": "v2ray",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md"
+              }
             }
           },
           {
@@ -164,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f26a61833582390",
+  "active": "f664e9976503c7a8",
   "lastOpenFiles": [
     "知识/VMware/VMware 安装.md",
     "知识/VMware/VMware 安装.txt",
