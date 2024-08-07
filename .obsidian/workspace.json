@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/VMware/相关问题.md",
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/VMware/相关问题.md",
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/VMware/相关问题.md",
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/VMware/相关问题.md"
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md"
               }
             }
           },
@@ -174,8 +175,8 @@
   },
   "active": "911626ba8be238f9",
   "lastOpenFiles": [
-    "知识/VMware/VMware 安装.md",
     "知识/VMware/相关问题.md",
+    "知识/VMware/VMware 安装.md",
     "知识/VMware/新建 文本文档.txt",
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/VMware/VMware 安装.txt",
