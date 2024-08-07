@@ -142,7 +142,8 @@ reboot
 账号 1152744220@qq.com
 password: Qq@18251893918
 
-获取订阅地址
+获取订阅地址;
+https://mojie.app/api/v1/client/subscribe?token=3bc4ebd0c6f45e752d39b1524516adfe
 
 配置v2ray 
 ![[Pasted image 20240613181059.png]]
