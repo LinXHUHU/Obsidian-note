@@ -11,8 +11,12 @@
             "id": "911626ba8be238f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知识/VMware/VMware 安装.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识/VMware/VMware 安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识/VMware/VMware 安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识/VMware/VMware 安装.md"
+              }
             }
           },
           {
@@ -165,12 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "911626ba8be238f9",
+  "active": "1f26a61833582390",
   "lastOpenFiles": [
+    "知识/VMware/相关问题.md",
+    "知识/VMware/新建 文本文档.txt",
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/VMware/VMware 安装.md",
     "知识/VMware/VMware 安装.txt",
-    "知识/VMware/新建 文本文档.txt",
     "知识/VMware",
     "知识/新建文件夹",
     "未命名.md",
@@ -202,7 +210,6 @@
     "知识/ChatGpt/大模型提示工程学习.md",
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
-    "知识/ModSar/IR/E2E.md",
     "工作/报销/报销模板.pdf",
     "知识/ChatGpt",
     "Attachments/Pasted image 20240312132448.png",
