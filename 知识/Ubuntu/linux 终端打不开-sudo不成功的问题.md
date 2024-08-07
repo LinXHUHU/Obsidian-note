@@ -101,6 +101,9 @@ ibus-setup
 
 [https://ghproxy.net/https://github.com/v2fly/v2ray-core/releases/download/v5.13.0/v2ray-linux-64.zip](https://ghproxy.net/https://github.com/v2fly/v2ray-core/releases/download/v5.13.0/v2ray-linux-64.zip)
 
+
+[dist/v2ray-linux-64.zip at master · v2ray/dist · GitHub](https://github.com/v2ray/dist/blob/master/v2ray-linux-64.zip)
+
 cp /media/sf_shared/v2ray-linux-64.zip /tmp/
 
 ```
