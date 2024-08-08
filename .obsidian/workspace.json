@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Typora/Typora Windows版本 免费激活教程.md",
+                "file": "知识/VMware/相关问题.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vbox",
+                "query": "挂载",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Typora/Typora Windows版本 免费激活教程.md",
+                "file": "知识/VMware/相关问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Typora/Typora Windows版本 免费激活教程.md",
+                "file": "知识/VMware/相关问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Typora/Typora Windows版本 免费激活教程.md"
+                "file": "知识/VMware/相关问题.md"
               }
             }
           },
@@ -174,6 +175,7 @@
   },
   "active": "602656e99237ac7f",
   "lastOpenFiles": [
+    "知识/Typora/Typora Windows版本 免费激活教程.md",
     "知识/Typora/Typora Windows版本 免费激活教程.assets/9d05ab6a2f83458da38ed6d30c433324.png",
     "知识/VMware/相关问题.md",
     "知识/VMware/VMware 安装.md",
@@ -219,7 +221,6 @@
     "Attachments/Pasted image 20240301173910.png",
     "Attachments/Pasted image 20240301170436.png",
     "Attachments/Pasted image 20240301170416.png",
-    "Attachments/Pasted image 20240229172232.png",
     "知识/cpp",
     "知识/ModSar/IR",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
