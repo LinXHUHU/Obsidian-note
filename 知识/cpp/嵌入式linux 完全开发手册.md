@@ -45,8 +45,13 @@ chmod a+w .bashrc
   ```bash
   grep -rn "字符串" 文件名 
   # r(recursive) recursive)：递归查找 n(number) number)：显示行号
-  
   ```
+
+  文件名：文件名是必须的，但是可以通配符匹配多个文件
+
+  字符串：这里可以使用-w 进行全词匹配
+
+  使用管道来过滤，放到了
 
   
 
