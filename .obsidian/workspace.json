@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/cpp/深入设计模式.md",
-                "mode": "preview",
+                "file": "知识/cpp/嵌入式linux 完全开发手册.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/cpp/深入设计模式.md",
+                "file": "知识/cpp/嵌入式linux 完全开发手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/cpp/深入设计模式.md",
+                "file": "知识/cpp/嵌入式linux 完全开发手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/cpp/深入设计模式.md"
+                "file": "知识/cpp/嵌入式linux 完全开发手册.md"
               }
             }
           },
@@ -174,6 +174,8 @@
   },
   "active": "602656e99237ac7f",
   "lastOpenFiles": [
+    "知识/cpp/深入设计模式.md",
+    "知识/cpp/嵌入式linux 完全开发手册.md",
     "知识/Typora/Typora Windows版本 免费激活教程.md",
     "知识/VMware/相关问题.md",
     "知识/Typora/Typora Windows版本 免费激活教程.assets/9d05ab6a2f83458da38ed6d30c433324.png",
@@ -204,10 +206,8 @@
     "知识/VMware/VMware 安装.txt",
     "知识/VMware",
     "知识/新建文件夹",
-    "读书笔记/认知.md",
     "Attachments/Pasted image 20240613181118.png",
     "Attachments/Pasted image 20240613181059.png",
-    "知识/Rust/开源项目学习/ChatGpt/1.环境配置.md",
     "Attachments/Pasted image 20240613112746.png",
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
