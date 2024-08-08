@@ -56,15 +56,8 @@
 
 安装步骤：
 
- 1. 点击Download之后会跳转到github网站，点击下载第一个压缩包就好了，下载完后进行解压
-
-    ![img](C:\Users\XNL1WX\Documents\Obsidian-note\知识\Typora\Typora Windows版本 免费激活教程.assets\d4c908340dbf37556b4ced2d1452a564-1722935606080-3.png)
-
- 2. 然后打开我们的Typora和->文件->偏好设置->外观->打开主题文件夹，将解压好的文件拖到这个Typora的主题文件夹，之后重启一下Typora就有啦！
-
-![img](C:\Users\XNL1WX\Documents\Obsidian-note\知识\Typora\Typora Windows版本 免费激活教程.assets\dc0b37b918d5c2748bd1990c328e9189-1722935679373-7.png)
-
-
+  1. 点击Download之后会跳转到github网站，点击下载第一个压缩包就好了，下载完后进行解压
+  2. 然后打开我们的Typora和->文件->偏好设置->外观->打开主题文件夹，将解压好的文件拖到这个Typora的主题文件夹，之后重启一下Typora就有啦！
 
 ## 五、网络图床搭建
 
