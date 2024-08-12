@@ -59,7 +59,7 @@ chmod a+w .bashrc
 
   ​	gzip：压缩小文件用
 
-  ```
+  ```Bash
   # l(list) 列出压缩文件的内容。
   # k(keep) 在压缩或解压时，保留输入文件。
   # d(decompress) 将压缩文件进行解压缩。
@@ -73,9 +73,69 @@ chmod a+w .bashrc
 
   ​	tar：底层实际调用gzip 或者 bzip2
 
+  ```Bash
+  tar czvf dira.tar.gz dira
+  #c(create) create)：表示创建用来生成文件包 。
+  #x ：表示提取，从文件包中提取文件。
+  #t ：可以查看压缩的文件。
+  #z ：使用 gzip 方式进行处理，它与 ” 结合就表示压缩，与 ” 结合就表示解压缩。
+  #j ：使用 bzip2 方式进行处理，它与 ” 结合就表示压缩，与 ” 结合就表示解压缩。
+  #v(verbose) verbose)：详细报告 tar 处理的信息。
+  #f(file) file)：表示文件，后面接着一个文件名。 C < 指定目录 > 解压到指定目录。
+  ```
+
   
 
+  
 
+- 网络配置命令
+
+  - ifconfig
+
+     [linux.pdf](嵌入式linux 完全开发手册.assets\linux.pdf) 
+
+    - 查看当前网卡
+    - 查看所有网卡
+    - 设置网卡IP
+
+  - route 和DNS
+
+    不能上网原因，路由和DNS
+
+    原因查找
+
+    ```Bash
+    ping 8.8.8.8 
+    # 不通代表路由不行
+    ping www.baidu.com
+    # 但是 p ing www.baidu.com ”不成功，则是 D NS 没设置好：
+    ```
+
+    1. 配置DNS服务器
+    2. 配置路由信息
+       1. 路由信息表内容含义
+       2. 手动配置路由表
+          1. 添加
+          2. 删除
+
+    
+
+    
+
+  - vi 文本编辑器
+
+    - 模式切换
+
+    <img src="C:\Users\XNL1WX\Documents\Obsidian-note\知识\cpp\嵌入式linux 完全开发手册.assets\image-20240808133516807.png" alt="image-20240808133516807" style="zoom:65%;" />
+
+    - 文件的create，open，save
+    - 
+
+    
+
+  
+
+  
 
 
 
