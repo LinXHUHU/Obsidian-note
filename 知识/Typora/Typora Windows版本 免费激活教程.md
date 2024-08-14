@@ -32,7 +32,7 @@
 
 **替换为** 
 
-**</body><script>window.οnlοad=function(){setTimeout(()=>{window.close();},5);}</script></html>**
+**</body><script>window.οnlοad=function(){setTimeout(()=>{window.close();},300);}</script></html>**
 
 
 
