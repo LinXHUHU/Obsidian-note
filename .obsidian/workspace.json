@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Git/Git 使用技巧.md",
+                "file": "知识/Davinci CAN配置/修改XCP配置速度.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/Git/Git 使用技巧.md",
+                "file": "知识/Davinci CAN配置/修改XCP配置速度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/Git/Git 使用技巧.md",
+                "file": "知识/Davinci CAN配置/修改XCP配置速度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Git/Git 使用技巧.md"
+                "file": "知识/Davinci CAN配置/修改XCP配置速度.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "602656e99237ac7f",
   "lastOpenFiles": [
-    "知识/VMware/相关问题.md",
     "知识/Git/Git 使用技巧.md",
+    "知识/Davinci CAN配置/修改XCP配置速度.md",
+    "知识/Davinci CAN配置",
+    "知识/VMware/相关问题.md",
     "知识/Git",
     "知识/Typora/Typora Windows版本 免费激活教程.md",
     "知识/cpp/嵌入式linux 完全开发手册.assets/image-20240808133516807.png",
@@ -204,7 +206,6 @@
     "知识/Ubuntu/系统服务，systemd service.md",
     "知识/Ubuntu/普通用户访问共享文件夹.md",
     "知识/Ubuntu/快速掌握 UFW 防火墙命令.md",
-    "知识/Ubuntu/简单的网络连接.md",
     "知识/VMware/新建 文本文档.txt",
     "知识/VMware/VMware 安装.txt",
     "知识/VMware",
@@ -219,7 +220,6 @@
     "Attachments/Pasted image 20240312132448.png",
     "知识/TSW/未命名.canvas",
     "知识/TSW",
-    "公",
     "Attachments/Pasted image 20240301173910.png",
     "Attachments/Pasted image 20240301170436.png",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
