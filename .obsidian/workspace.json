@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "挂载",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "602656e99237ac7f",
+  "active": "adff604a49a5367f",
   "lastOpenFiles": [
     "知识/Typora/Typora Windows版本 免费激活教程.md",
     "知识/cpp/嵌入式linux 完全开发手册.assets/image-20240808133516807.png",
