@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "主题",
+                "query": "挂载",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "602656e99237ac7f",
+  "active": "adff604a49a5367f",
   "lastOpenFiles": [
     "知识/cpp/嵌入式linux 完全开发手册.assets/image-20240808133516807.png",
     "知识/cpp/嵌入式linux 完全开发手册.assets/linux.pdf",
