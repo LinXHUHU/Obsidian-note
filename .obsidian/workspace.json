@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "602656e99237ac7f",
+  "active": "adff604a49a5367f",
   "lastOpenFiles": [
     "知识/Davinci CAN配置/修改XCP配置速度.md",
     "知识/Git/Git 使用技巧.md",
