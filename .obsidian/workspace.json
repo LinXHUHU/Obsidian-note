@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "相关问题"
             }
-          },
-          {
-            "id": "f41114d20074208d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "共享",
+                "query": "Efficiency/Quality/Creativity & Ability to solve problems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
