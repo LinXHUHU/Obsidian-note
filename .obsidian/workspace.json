@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/VMware/相关问题.md",
+                "file": "知识/ModSar/modsar e2e/e2e 开发过程日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "相关问题"
+              "title": "e2e 开发过程日志"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Efficiency/Quality/Creativity & Ability to solve problems",
+                "query": "测试",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/VMware/相关问题.md"
+                "file": "知识/ModSar/modsar e2e/e2e 开发过程日志.md"
               },
               "icon": "lucide-list",
-              "title": "相关问题 的大纲"
+              "title": "e2e 开发过程日志 的大纲"
             }
           },
           {
@@ -194,15 +195,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f26a61833582390",
+  "active": "602656e99237ac7f",
   "lastOpenFiles": [
+    "知识/ModSar/MODSAR 性能测试结果/dds-零拷贝测试结果.md",
+    "知识/ModSar/MODSAR 性能测试结果/写demo.md",
+    "知识/ModSar/MODSAR 性能测试结果/时间延迟测试 demo.md",
+    "知识/VMware/相关问题.md",
     "知识/cpp/第四篇 嵌入式Linux应用开发基础知识.md",
     "知识/Docker 快速入门实践/1.md",
     "知识/Typora/Typora Windows版本 免费激活教程.md",
     "知识/Davinci CAN配置/修改XCP配置速度.md",
     "知识/Git/Git 使用技巧.md",
     "知识/Davinci CAN配置",
-    "知识/VMware/相关问题.md",
     "知识/Git",
     "知识/cpp/嵌入式linux 完全开发手册.assets/image-20240808133516807.png",
     "知识/cpp/嵌入式linux 完全开发手册.assets/linux.pdf",
@@ -225,9 +229,6 @@
     "知识/Ubuntu/VScode安装.md",
     "知识/Ubuntu/Vscode 注释插件Doxygen 配置.md",
     "知识/Ubuntu/Ubuntu 中文无法使用的问题.md",
-    "知识/Ubuntu/Git命令学习.md",
-    "知识/Ubuntu/压缩相关.md",
-    "知识/Ubuntu/系统服务，systemd service.md",
     "知识/VMware/新建 文本文档.txt",
     "知识/VMware/VMware 安装.txt",
     "知识/VMware",
