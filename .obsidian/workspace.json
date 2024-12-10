@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "linux 终端打不开-sudo不成功的问题"
             }
+          },
+          {
+            "id": "2f7756939963bb1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux 终端打不开-sudo不成功的问题"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "602656e99237ac7f",
+  "active": "2f7756939963bb1e",
   "lastOpenFiles": [
     "知识/ModSar/MODSAR 性能测试结果/写demo.md",
     "知识/汽车网络/汽车是怎么联网的？.md",
