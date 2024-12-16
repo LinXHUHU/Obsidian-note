@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Yocto/未命名.md",
+                "file": "知识/Yocto/Quick build.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Quick build"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Yocto/未命名.md"
+                "file": "知识/Yocto/Quick build.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Quick build 的大纲"
             }
           },
           {
@@ -212,7 +212,7 @@
   "active": "2f7756939963bb1e",
   "lastOpenFiles": [
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
-    "知识/Yocto/未命名.md",
+    "知识/Yocto/Quick build.md",
     "知识/Yocto",
     "知识/ModSar/MODSAR 性能测试结果/写demo.md",
     "知识/汽车网络/汽车是怎么联网的？.md",
