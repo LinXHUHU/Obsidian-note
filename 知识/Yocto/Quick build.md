@@ -60,6 +60,6 @@ WARNING: orc-0.4.40-r0 do_fetch: Failed to fetch URL http://gstreamer.freedeskto
 
 ## FIX
 
-![[Pasted image 20241216112435.png]]
+各种网络切换解决
 
-
+开启或者去掉代理，就可以了
