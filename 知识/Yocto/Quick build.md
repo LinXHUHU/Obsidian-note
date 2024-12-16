@@ -46,4 +46,20 @@ Patch rust-oe-selftest.patch does not apply (enforce with -f)
 ---
 
 
-# P2
+# P2 容易下载失败
+
+
+## Description
+
+```
+Fetch errors
+WARNING: json-c-0.17-r0 do_fetch: Failed to fetch URL https://s3.amazonaws.com/json-c_releases/releases/json-c-0.17.tar.gz, attempting MIRRORS if available
+WARNING: orc-0.4.40-r0 do_fetch: Failed to fetch URL http://gstreamer.freedesktop.org/src/orc/orc-0.4.40.tar.xz, attempting MIRRORS if available
+
+```
+
+## FIX
+
+![[Pasted image 20241216112435.png]]
+
+
