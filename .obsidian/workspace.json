@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+                "file": "知识/Yocto/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux 终端打不开-sudo不成功的问题"
+              "title": "未命名"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "v2r",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md"
+                "file": "知识/Yocto/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "linux 终端打不开-sudo不成功的问题 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -212,6 +211,9 @@
   },
   "active": "2f7756939963bb1e",
   "lastOpenFiles": [
+    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+    "知识/Yocto/未命名.md",
+    "知识/Yocto",
     "知识/ModSar/MODSAR 性能测试结果/写demo.md",
     "知识/汽车网络/汽车是怎么联网的？.md",
     "知识/ModSar/modsar e2e/e2e 开发过程日志.md",
@@ -241,9 +243,7 @@
     "知识/ChatGpt/API key.md",
     "知识/ChatGpt/Azure OpenAi.md",
     "知识/Ubuntu/Vbox虚拟机问题.md",
-    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/Ubuntu/yacto build.md",
-    "知识/Ubuntu/VScode安装.md",
     "知识/VMware/新建 文本文档.txt",
     "知识/VMware/VMware 安装.txt",
     "知识/VMware",
@@ -257,7 +257,6 @@
     "知识/ChatGpt",
     "Attachments/Pasted image 20240312132448.png",
     "知识/TSW/未命名.canvas",
-    "知识/TSW",
     "Attachments/Pasted image 20240301173910.png",
     "Attachments/Pasted image 20240301170436.png",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
