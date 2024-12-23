@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Yocto/Quick build.md",
+                "file": "知识/Yocto/S32G3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick build"
+              "title": "S32G3"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Yocto/Quick build.md"
+                "file": "知识/Yocto/S32G3.md"
               },
               "icon": "lucide-list",
-              "title": "Quick build 的大纲"
+              "title": "S32G3 的大纲"
             }
           },
           {
@@ -211,10 +211,11 @@
   },
   "active": "2f7756939963bb1e",
   "lastOpenFiles": [
+    "知识/Yocto/Quick build.md",
+    "知识/Yocto/S32G3.md",
     "Attachments/Pasted image 20241216112435.png",
     "Attachments/Pasted image 20241216112359.png",
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
-    "知识/Yocto/Quick build.md",
     "知识/Yocto",
     "知识/ModSar/MODSAR 性能测试结果/写demo.md",
     "知识/汽车网络/汽车是怎么联网的？.md",
@@ -258,7 +259,6 @@
     "知识/ChatGpt",
     "Attachments/Pasted image 20240312132448.png",
     "知识/TSW/未命名.canvas",
-    "Attachments/Pasted image 20240301173910.png",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
