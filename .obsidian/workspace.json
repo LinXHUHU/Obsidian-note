@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/Yocto/S32G3.md",
+                "file": "知识/VMware/相关问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S32G3"
+              "title": "相关问题"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "挂载",
+                "query": "共享文件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Yocto/S32G3.md"
+                "file": "知识/VMware/相关问题.md"
               },
               "icon": "lucide-list",
-              "title": "S32G3 的大纲"
+              "title": "相关问题 的大纲"
             }
           },
           {
@@ -210,10 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adff604a49a5367f",
+  "active": "2f7756939963bb1e",
   "lastOpenFiles": [
-    "知识/Yocto/Quick build.md",
+    "知识/Cmake cook book/各种编译参数的配置.md",
+    "知识/cpp/深入设计模式.md",
+    "知识/cpp/第四篇 嵌入式Linux应用开发基础知识.md",
+    "知识/Docker 快速入门实践/1.md",
     "知识/Yocto/S32G3.md",
+    "知识/Yocto/Quick build.md",
     "Attachments/Pasted image 20241216112435.png",
     "Attachments/Pasted image 20241216112359.png",
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
@@ -224,8 +228,6 @@
     "知识/ModSar/MODSAR 性能测试结果/dds-零拷贝测试结果.md",
     "知识/ModSar/MODSAR 性能测试结果/时间延迟测试 demo.md",
     "知识/VMware/相关问题.md",
-    "知识/cpp/第四篇 嵌入式Linux应用开发基础知识.md",
-    "知识/Docker 快速入门实践/1.md",
     "知识/Typora/Typora Windows版本 免费激活教程.md",
     "知识/Davinci CAN配置/修改XCP配置速度.md",
     "知识/Git/Git 使用技巧.md",
@@ -234,7 +236,6 @@
     "知识/cpp/嵌入式linux 完全开发手册.assets/image-20240808133516807.png",
     "知识/cpp/嵌入式linux 完全开发手册.assets/linux.pdf",
     "知识/cpp/嵌入式linux 完全开发手册.md",
-    "知识/cpp/深入设计模式.md",
     "知识/Typora/Typora Windows版本 免费激活教程.assets/9d05ab6a2f83458da38ed6d30c433324.png",
     "知识/VMware/VMware 安装.md",
     "知识/ChatGpt/大模型提示工程学习.md",
@@ -246,7 +247,6 @@
     "ZCU DV项目GPTcode.md",
     "知识/ChatGpt/API key.md",
     "知识/ChatGpt/Azure OpenAi.md",
-    "知识/Ubuntu/Vbox虚拟机问题.md",
     "知识/VMware/新建 文本文档.txt",
     "知识/VMware/VMware 安装.txt",
     "知识/VMware",
