@@ -69,7 +69,9 @@ view -》 resize    adjust  结束
 
 ---
 # 共享文件夹配置
-
+```bash
+cat /etc/group
+```
 sudo usermod -aG vboxsf lxh 添加用户到组
 
 sudo reboot
