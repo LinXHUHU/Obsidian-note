@@ -35,8 +35,7 @@
               "title": "相关问题"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "共享文件",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +87,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/VMware/相关问题.md"
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md"
               },
               "icon": "lucide-list",
-              "title": "相关问题 的大纲"
+              "title": "linux 终端打不开-sudo不成功的问题 的大纲"
             }
           },
           {
@@ -210,8 +208,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f7756939963bb1e",
+  "active": "602656e99237ac7f",
   "lastOpenFiles": [
+    "知识/VMware/相关问题.md",
     "知识/Cmake cook book/各种编译参数的配置.md",
     "知识/cpp/深入设计模式.md",
     "知识/cpp/第四篇 嵌入式Linux应用开发基础知识.md",
@@ -227,7 +226,6 @@
     "知识/ModSar/modsar e2e/e2e 开发过程日志.md",
     "知识/ModSar/MODSAR 性能测试结果/dds-零拷贝测试结果.md",
     "知识/ModSar/MODSAR 性能测试结果/时间延迟测试 demo.md",
-    "知识/VMware/相关问题.md",
     "知识/Typora/Typora Windows版本 免费激活教程.md",
     "知识/Davinci CAN配置/修改XCP配置速度.md",
     "知识/Git/Git 使用技巧.md",
