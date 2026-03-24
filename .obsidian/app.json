@@ -8,5 +8,6 @@
     "margin": "0",
     "downscalePercent": 71
   },
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
