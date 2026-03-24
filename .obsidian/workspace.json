@@ -11,10 +11,14 @@
             "id": "e9f92c15d828043a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WorkNote/XC-BSW架构/Bosch Logging.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Bosch Logging"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "WorkNote/XC-BSW架构/Bosch Logging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Bosch Logging 的大纲"
             }
           },
           {
@@ -197,6 +202,15 @@
   },
   "active": "e9f92c15d828043a",
   "lastOpenFiles": [
+    "XC-CP工作文档/模块架构整理.md",
+    "XC-CP工作文档/UT stub 打桩coredump分析.md",
+    "XC-CP工作文档/车辆VIN码的作用.md",
+    "XC-CP工作文档/assets/ArchVariantServer.svg",
+    "XC-CP工作文档/模块架构整理/orinY variantserver启动失败问题分析.md",
+    "XC-CP工作文档/模块架构整理/ara__core__deinit 导致的coredump.md",
+    "XC-CP工作文档/模块架构整理/orinY variantserver启动失败问题分析/进程手动拉起指令.md",
+    "ROS2知识库/ROS学习笔记.md",
+    "ROS2知识库",
     "知识/VMware/相关问题.md",
     "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/Cmake cook book/各种编译参数的配置.md",
@@ -225,13 +239,6 @@
     "知识/VMware/VMware 安装.md",
     "知识/ChatGpt/大模型提示工程学习.md",
     "任务看板.canvas",
-    "未命名.md",
-    "未命名 1.md",
-    "base 迁移工作量评估.md",
-    "v2ra.md",
-    "ZCU DV项目GPTcode.md",
-    "知识/ChatGpt/API key.md",
-    "知识/ChatGpt/Azure OpenAi.md",
     "知识/VMware/新建 文本文档.txt",
     "知识/VMware/VMware 安装.txt",
     "知识/VMware",
@@ -242,8 +249,6 @@
     "Attachments/Pasted image 20240517140331.png",
     "Attachments/Pasted image 20240517135958.png",
     "工作/报销/报销模板.pdf",
-    "知识/ChatGpt",
-    "Attachments/Pasted image 20240312132448.png",
     "知识/TSW/未命名.canvas",
     "知识/ModSar/vsomeip 序列化/VSOMEIP 可视化看板.canvas",
     "Untitled.canvas",
