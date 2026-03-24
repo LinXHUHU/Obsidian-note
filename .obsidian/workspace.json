@@ -54,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -153,7 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md"
+                "file": "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "linux 终端打不开-sudo不成功的问题 的大纲"
@@ -165,8 +169,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -175,8 +179,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -185,8 +189,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -198,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -211,6 +216,7 @@
   "active": "602656e99237ac7f",
   "lastOpenFiles": [
     "知识/VMware/相关问题.md",
+    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/Cmake cook book/各种编译参数的配置.md",
     "知识/cpp/深入设计模式.md",
     "知识/cpp/第四篇 嵌入式Linux应用开发基础知识.md",
@@ -219,7 +225,6 @@
     "知识/Yocto/Quick build.md",
     "Attachments/Pasted image 20241216112435.png",
     "Attachments/Pasted image 20241216112359.png",
-    "知识/Ubuntu/linux 终端打不开-sudo不成功的问题.md",
     "知识/Yocto",
     "知识/ModSar/MODSAR 性能测试结果/写demo.md",
     "知识/汽车网络/汽车是怎么联网的？.md",

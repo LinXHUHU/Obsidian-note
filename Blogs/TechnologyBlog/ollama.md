@@ -1,0 +1,13 @@
+# 介绍
+[Ollama](https://zhida.zhihu.com/search?content_id=242434953&content_type=Article&match_order=1&q=Ollama&zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3NDQwOTQxMzEsInEiOiJPbGxhbWEiLCJ6aGlkYV9zb3VyY2UiOiJlbnRpdHkiLCJjb250ZW50X2lkIjoyNDI0MzQ5NTMsImNvbnRlbnRfdHlwZSI6IkFydGljbGUiLCJtYXRjaF9vcmRlciI6MSwiemRfdG9rZW4iOm51bGx9.zdq4LBJ6DhwGE6AgCFVrFKIFSSJCJvcYGfef3j3lP_E&zhida_source=entity) 是一个开源框架，专为在本地机器上便捷部署和运行[大型语言模型](https://zhida.zhihu.com/search?content_id=242434953&content_type=Article&match_order=1&q=%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B&zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3NDQwOTQxMzEsInEiOiLlpKflnovor63oqIDmqKHlnosiLCJ6aGlkYV9zb3VyY2UiOiJlbnRpdHkiLCJjb250ZW50X2lkIjoyNDI0MzQ5NTMsImNvbnRlbnRfdHlwZSI6IkFydGljbGUiLCJtYXRjaF9vcmRlciI6MSwiemRfdG9rZW4iOm51bGx9.Xh2njZEls35vNpKeKaYFgom5PlE4q1rChTfyBL6rsIA&zhida_source=entity)（LLM）而设计。
+以下是其主要特点和功能概述：
+- 简化部署
+- 轻量化可拓展
+- REST API支持
+- 有丰富的预训练模型库
+- 模型导入方便
+	- GGUF文件导入
+	- 兼容Pytorch和safetensor等框架
+
+总结： 主要专注于大模型的部署和运行，并不支持大模型的训练和微调
+
