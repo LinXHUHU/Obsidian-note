@@ -16,7 +16,7 @@
 
 ![[Pasted image 20260324180825.png]]
 日志大包功能上传云端
-
+- Log 5min 检索一下 /log/dlt_log/dlt_raw路径，将序号从大到小排列，最大的两个序号保留，使用mv将其他文件转移到/log/dlt_log/dlt_tmp文件夹，使用zip指令进行压缩，压缩后将落盘在dlt.zip中，如果落盘成功完成，会将dlt.zip改成 dlt_done.zip. dlt_done.zip 生成后，删除 /log/dlt_log/dlt_tmp中的文件。
 
 [[klogd-syslogd-rsyslogd]]
 
