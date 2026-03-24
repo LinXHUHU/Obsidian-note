@@ -4,6 +4,18 @@
 会存储整个系统的所有日志，包括MCU的日志，ASW日志， 系统日志（qnx 和 linux）
 系统日志： VRTE中实现linux 和 qnx 系统日志子模块，会将klogd, syslog, slogger2 日志转化为 dlt
 
+- VRTE 和 AOS 和 AutoSar的log收集方式如图所示。
+- AutoSar的DLT Log通过以太网直接和rd_dltd进行连接。（IP 地址ping通即可） DLT Daemon 包含监听以太网上的log传输功能。
+- ==AutoSar 和 VRTE 都可以支持 DLT Viewer实时查看Log==
+- QNX的log会通过dlt-qnx-system 转化成DLT Log。
+- AutoSar各个模块通过DLT API打印Log
+- AutoSar支持no verbose 模式。
+- Exe_Diag  通过诊断仪收集log，Exe_logServer 压缩所有的log，Exe_Diag 发送给诊断仪。
+- Shadow Mode 通过 ara-com gateway 通知logServer 提供每个模块最新的两份log。
+
+
+![[Pasted image 20260324180825.png]]
+日志大包功能上传云端
 
 
 [[klogd-syslogd-rsyslogd]]
