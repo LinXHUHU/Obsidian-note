@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS2知识库/2. Begginer-CLI Tools.md",
+                "file": "ROS2知识库/3. Beginner- Client libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Begginer-CLI Tools"
+              "title": "3. Beginner- Client libraries"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS2知识库/2. Begginer-CLI Tools.md",
+                "file": "ROS2知识库/3. Beginner- Client libraries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. Begginer-CLI Tools 的大纲"
+              "title": "3. Beginner- Client libraries 的大纲"
             }
           },
           {
@@ -202,8 +202,9 @@
   },
   "active": "6e5b92305a14c33d",
   "lastOpenFiles": [
-    "ROS2知识库/1. Install.md",
     "ROS2知识库/2. Begginer-CLI Tools.md",
+    "ROS2知识库/3. Beginner- Client libraries.md",
+    "ROS2知识库/1. Install.md",
     "知识/汽车网络/汽车是怎么联网的？.md",
     "WorkNote/XC-BSW架构/Bosch Logging.md",
     "Attachments/Pasted image 20260324180825.png",
@@ -237,7 +238,6 @@
     "知识/Git",
     "知识/cpp/嵌入式linux 完全开发手册.assets/image-20240808133516807.png",
     "知识/cpp/嵌入式linux 完全开发手册.assets/linux.pdf",
-    "知识/cpp/嵌入式linux 完全开发手册.md",
     "知识/Typora/Typora Windows版本 免费激活教程.assets/9d05ab6a2f83458da38ed6d30c433324.png",
     "任务看板.canvas",
     "知识/VMware/新建 文本文档.txt",
