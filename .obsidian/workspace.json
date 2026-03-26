@@ -11,10 +11,14 @@
             "id": "6e5b92305a14c33d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ROS2知识库/3. 创建工作区.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "3. 创建工作区"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ROS2知识库/3. 创建工作区.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of 3. 创建工作区"
             }
           },
           {
@@ -163,16 +168,6 @@
               "icon": "lucide-ghost",
               "title": "advanced-tables-toolbar"
             }
-          },
-          {
-            "id": "102987bdf9a25e05",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
           }
         ],
         "currentTab": 3
@@ -183,21 +178,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "github-sync:Sync with Remote": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "6e5b92305a14c33d",
   "lastOpenFiles": [
     "ROS2知识库/ROS学习笔记.md",
+    "ROS2知识库/3. 创建工作区.md",
     "知识/汽车网络/汽车是怎么联网的？.md",
     "WorkNote/XC-BSW架构/Bosch Logging.md",
     "Attachments/Pasted image 20260324180825.png",
@@ -233,7 +228,6 @@
     "知识/cpp/嵌入式linux 完全开发手册.assets/linux.pdf",
     "知识/cpp/嵌入式linux 完全开发手册.md",
     "知识/Typora/Typora Windows版本 免费激活教程.assets/9d05ab6a2f83458da38ed6d30c433324.png",
-    "知识/VMware/VMware 安装.md",
     "任务看板.canvas",
     "知识/VMware/新建 文本文档.txt",
     "知识/VMware/VMware 安装.txt",
